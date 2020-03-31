@@ -10,17 +10,7 @@
       Brixton Local
       <div class="sub header" style="margin-top: 0.5rem;">{{- .Site.Params.motto -}}</div>
     </h1>
-
-    <div class="ui horizontal list">
-      {{ if gt (len (where .Site.RegularPages "Section" "==" "posts")) 0 }}
-      <a class="item" href="/posts">
-        <i class="archive icon" title="{{ i18n "archives" }}"></i>
-      </a>
-      {{ end }}
-      <a class="item" href="/categories">
-        <i class="th list icon" title="{{ i18n "allCategories" }}"></i>
-      </a>
-    </div>
+    <p> Supporting our local businesses during the COVID-19 lockdown</p>
   </section>
 
   {{ if .Site.Taxonomies.tags }}
@@ -56,6 +46,12 @@
   {{ end }}
 
   <section class="ui bottom attached center aligned segment">
-Supporting local Brixton businesses during the COVID-19 lockdown
+  <div class="ui horizontal list">
+    {{ if gt (len (where .Site.RegularPages "Section" "==" "posts")) 0 }}
+    <a class="item" href="/posts">
+      <i class="archive icon" title="{{ i18n "archives" }}"></i>
+    </a>
+    {{ end }}
+  </div>
   </section>
 </article>
