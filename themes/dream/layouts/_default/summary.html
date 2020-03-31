@@ -1,0 +1,19 @@
+{{ if .Site.Params.backgroundImage }}
+<article class="ui raised card dream-card" style="box-shadow: none;">
+{{ else }}
+<article class="ui raised card dream-card">
+{{ end }}
+  <div class="image">
+    {{ if isset .Params "cover" }}
+      <img src="{{ .Params.cover }}" alt="{{ .Title }}" />
+    {{ else }}
+      <img src="/img/default{{ index (shuffle (seq 1 4)) 0 }}.jpg" alt="{{ .Title }}" />
+    {{ end }}
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a style="color: black !important;" href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+  </div>
+</article>
