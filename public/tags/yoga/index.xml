@@ -6,7 +6,7 @@
     <description>Recent content in Yoga on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 22:18:25 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 22:18:25 +0100</lastBuildDate>
     
 	<atom:link href="https://tender-bell-527fff.netlify.com/tags/yoga/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Brixton Yoga</title>
       <link>https://tender-bell-527fff.netlify.com/posts/byoga/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
+      <pubDate>Wed, 25 Mar 2020 22:18:25 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/posts/byoga/</guid>
       <description>Daily live yoga by Zoom, see Instagram and Facebook page for the daily links
@@ -23,23 +23,23 @@ Free but can give donation amount</description>
     </item>
     
     <item>
+      <title>Fuse</title>
+      <link>https://tender-bell-527fff.netlify.com/posts/fuse/</link>
+      <pubDate>Thu, 19 Mar 2020 22:06:15 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/posts/fuse/</guid>
+      <description>&lt;p&gt;Live streamed daily exercise classes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Hotpod Yoga Brixton</title>
       <link>https://tender-bell-527fff.netlify.com/posts/hotpod/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:20 +0100</pubDate>
+      <pubDate>Mon, 16 Mar 2020 22:18:20 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/posts/hotpod/</guid>
       <description>Hotpod Yoga Brixton	is offering online classes without the heat!
 Website: https://hotpodyoga.com/studios/brixton/schedule/
 Donation amount</description>
-    </item>
-    
-    <item>
-      <title>Fuse</title>
-      <link>https://tender-bell-527fff.netlify.com/posts/fuse/</link>
-      <pubDate>Sun, 29 Mar 2020 22:06:15 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/posts/fuse/</guid>
-      <description>&lt;p&gt;Live streamed daily exercise classes.&lt;/p&gt;</description>
     </item>
     
   </channel>

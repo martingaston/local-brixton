@@ -6,20 +6,10 @@
     <description>Recent content in Meals on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 22:16:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 22:16:29 +0100</lastBuildDate>
     
 	<atom:link href="https://tender-bell-527fff.netlify.com/tags/meals/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Brixton Chip Shop</title>
-      <link>https://tender-bell-527fff.netlify.com/posts/chipshop/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:37 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/posts/chipshop/</guid>
-      <description>Chip Shop has launched its new delivery menu with a selection of favourite fish, meat, vegetarian and vegan classics. We are delivering direct to our customers within one mile of the Chip Shop so you won&amp;rsquo;t have to wait hours for your order using a traditional delivery service.
-How to order: Online - Delivery is available Monday to Friday from 6:30pm – 10:30pm and 4pm – 10:30pm Saturday and Sunday</description>
-    </item>
     
     <item>
       <title>Blank Brixton</title>
@@ -34,9 +24,19 @@ Address: 144 Acre Lane, Brixton, SW2 5UT</description>
     </item>
     
     <item>
+      <title>Brixton Chip Shop</title>
+      <link>https://tender-bell-527fff.netlify.com/posts/brchipshop/</link>
+      <pubDate>Fri, 27 Mar 2020 22:16:37 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/posts/brchipshop/</guid>
+      <description>Chip Shop has launched its new delivery menu with a selection of favourite fish, meat, vegetarian and vegan classics. We are delivering direct to our customers within one mile of the Chip Shop so you won&amp;rsquo;t have to wait hours for your order using a traditional delivery service.
+How to order: Online - Delivery is available Monday to Friday from 6:30pm – 10:30pm and 4pm – 10:30pm Saturday and Sunday</description>
+    </item>
+    
+    <item>
       <title>Enroot</title>
       <link>https://tender-bell-527fff.netlify.com/posts/enroot/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
+      <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/posts/enroot/</guid>
       <description>With a focus on health, EN ROOT celebrates fresh seasonal vegetables, wholesome pulses and aromatic Gujarati spices to deliver a unique, internationally influenced menu. Currently providing An ESSENTIAL Root Veg &amp;amp; Fruit Box for £25. A selection of EN ROOT’s favourite &amp;amp; inest fruit &amp;amp; veg while we on lockdown. https://www.enrootldn.co.uk/products/covid-root-box
@@ -48,7 +48,7 @@ Address: Clapham Park Road, London, SW4 7EY</description>
     <item>
       <title>Hood</title>
       <link>https://tender-bell-527fff.netlify.com/posts/hood/</link>
-      <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
+      <pubDate>Tue, 17 Mar 2020 22:15:55 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/posts/hood/</guid>
       <description>We have an excellent stock of eggs, fruit &amp;amp; veg, flour, other store cupboard basics, wine, beer, soft drinks and of course Mike’s marvellous meals! They are all frozen to be enjoyed at home.
@@ -58,9 +58,32 @@ Address: 67 Streatham Hill, SW2 4TX</description>
     </item>
     
     <item>
+      <title>Jerky Fridays</title>
+      <link>https://tender-bell-527fff.netlify.com/posts/jerkyfridays/</link>
+      <pubDate>Sun, 15 Mar 2020 22:16:52 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/posts/jerkyfridays/</guid>
+      <description>Sit back, relax, and enjoy our wide selection of delicious Caribbean cuisine. Message through their facebook page for menu and ordering/delivery information
+How to order: Message via Facebook, or order through JustEat https://www.facebook.com/JerkyFridays Collection Friday - Sunday 2-10pm (order first)
+Address: Palace Road, Tulse Hill, SW2 3JZ</description>
+    </item>
+    
+    <item>
+      <title>Le DailyCorner Cafe</title>
+      <link>https://tender-bell-527fff.netlify.com/posts/ledaily/</link>
+      <pubDate>Thu, 12 Mar 2020 20:11:04 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/posts/ledaily/</guid>
+      <description>Fruit, veg, bread, pastries. and cakes available to collect. Delivering fruit and veg for self-isolated people. Check their instagram daily for a morning video of what they have that day.
+How to order: Email ledailycorner@outlook.com Open 9am - 3pm (Tues - Sun) for takeaway and delivery within 1/2 mile
+Website: @le_dailycorner on instagram
+Address: 21 Upper Tulse Hill</description>
+    </item>
+    
+    <item>
       <title>Maremma</title>
       <link>https://tender-bell-527fff.netlify.com/posts/maremma/</link>
-      <pubDate>Sun, 29 Mar 2020 22:15:48 +0100</pubDate>
+      <pubDate>Mon, 09 Mar 2020 22:15:48 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/posts/maremma/</guid>
       <description>Maremma Deli is our new collection takeaway service bringing restaurant-quality, oven-ready meals, Maremman cheese and charcuterie, wine, fresh fruit and vegetable bags, homemade fresh pasta and sauces and other essentials

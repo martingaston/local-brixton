@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 22:18:25 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 19:39:30 +0100</lastBuildDate>
     
 	<atom:link href="https://tender-bell-527fff.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,113 +14,41 @@
     <item>
       <title>All</title>
       <link>https://tender-bell-527fff.netlify.com/tags/all/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
+      <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/tags/all/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Online</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/online/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/online/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yoga</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/yoga/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/yoga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Delivery</title>
       <link>https://tender-bell-527fff.netlify.com/tags/delivery/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:10 +0100</pubDate>
+      <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/tags/delivery/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Garden</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/garden/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:10 +0100</pubDate>
+      <title>Groceries</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/groceries/</link>
+      <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/garden/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/groceries/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Books</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/books/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:03 +0100</pubDate>
+      <title>Shops</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/shops/</link>
+      <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/books/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/shops/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Children</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/children/</link>
-      <pubDate>Sun, 29 Mar 2020 22:17:51 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/children/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beer</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/beer/</link>
-      <pubDate>Sun, 29 Mar 2020 22:17:35 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/beer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wine</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/wine/</link>
-      <pubDate>Sun, 29 Mar 2020 22:17:35 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/wine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caribbean</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/caribbean/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:52 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/caribbean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fish&#43;Chips</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/fish&#43;chips/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:37 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/fish&#43;chips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meals</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/meals/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:37 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/meals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cafe</title>
+      <title>Cafe</title>
       <link>https://tender-bell-527fff.netlify.com/tags/cafe/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:29 +0100</pubDate>
       
@@ -129,9 +57,117 @@
     </item>
     
     <item>
+      <title>Meals</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/meals/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:29 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/meals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegan</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/vegan/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:29 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/vegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beer</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/beer/</link>
+      <pubDate>Sat, 28 Mar 2020 09:17:03 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fish&#43;Chips</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/fish&#43;chips/</link>
+      <pubDate>Fri, 27 Mar 2020 22:16:37 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/fish&#43;chips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/community/</link>
+      <pubDate>Thu, 26 Mar 2020 22:18:39 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/donate/</link>
+      <pubDate>Thu, 26 Mar 2020 22:18:39 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/donate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foodbanks</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/foodbanks/</link>
+      <pubDate>Thu, 26 Mar 2020 22:18:39 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/foodbanks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitness</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/fitness/</link>
+      <pubDate>Wed, 25 Mar 2020 22:18:25 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/fitness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/online/</link>
+      <pubDate>Wed, 25 Mar 2020 22:18:25 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoga</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/yoga/</link>
+      <pubDate>Wed, 25 Mar 2020 22:18:25 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/yoga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/support/</link>
+      <pubDate>Sun, 22 Mar 2020 18:08:27 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garden</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/garden/</link>
+      <pubDate>Sat, 21 Mar 2020 22:18:10 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Collection</title>
       <link>https://tender-bell-527fff.netlify.com/tags/collection/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
+      <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/tags/collection/</guid>
       <description></description>
@@ -140,7 +176,7 @@
     <item>
       <title>Fruit&#43;Veg</title>
       <link>https://tender-bell-527fff.netlify.com/tags/fruit&#43;veg/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
+      <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/tags/fruit&#43;veg/</guid>
       <description></description>
@@ -149,52 +185,16 @@
     <item>
       <title>Gujarati</title>
       <link>https://tender-bell-527fff.netlify.com/tags/gujarati/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
+      <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/tags/gujarati/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Groceries</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/groceries/</link>
-      <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/groceries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modern British</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/modern-british/</link>
-      <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/modern-british/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Restaurant</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/restaurant/</link>
-      <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/restaurant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tuscan</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/tuscan/</link>
-      <pubDate>Sun, 29 Mar 2020 22:15:48 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/tuscan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Circuits</title>
       <link>https://tender-bell-527fff.netlify.com/tags/circuits/</link>
-      <pubDate>Sun, 29 Mar 2020 22:06:15 +0100</pubDate>
+      <pubDate>Thu, 19 Mar 2020 22:06:15 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/tags/circuits/</guid>
       <description></description>
@@ -203,18 +203,90 @@
     <item>
       <title>HIIT</title>
       <link>https://tender-bell-527fff.netlify.com/tags/hiit/</link>
-      <pubDate>Sun, 29 Mar 2020 22:06:15 +0100</pubDate>
+      <pubDate>Thu, 19 Mar 2020 22:06:15 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/tags/hiit/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Books</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/books/</link>
+      <pubDate>Wed, 18 Mar 2020 22:18:03 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern British</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/modern-british/</link>
+      <pubDate>Tue, 17 Mar 2020 22:15:55 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/modern-british/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restaurant</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/restaurant/</link>
+      <pubDate>Tue, 17 Mar 2020 22:15:55 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/restaurant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caribbean</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/caribbean/</link>
+      <pubDate>Sun, 15 Mar 2020 22:16:52 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/caribbean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Butchers</title>
       <link>https://tender-bell-527fff.netlify.com/tags/butchers/</link>
-      <pubDate>Sun, 29 Mar 2020 19:58:46 +0100</pubDate>
+      <pubDate>Sat, 14 Mar 2020 19:58:46 +0100</pubDate>
       
       <guid>https://tender-bell-527fff.netlify.com/tags/butchers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>French</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/french/</link>
+      <pubDate>Thu, 12 Mar 2020 20:11:04 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/children/</link>
+      <pubDate>Wed, 11 Mar 2020 22:17:44 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuscan</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/tuscan/</link>
+      <pubDate>Mon, 09 Mar 2020 22:15:48 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/tuscan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wine</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/wine/</link>
+      <pubDate>Fri, 06 Mar 2020 22:17:35 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/wine/</guid>
       <description></description>
     </item>
     
