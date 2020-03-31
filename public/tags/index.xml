@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Brixton Local</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Brixton Local</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 22:18:25 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All</title>
+      <link>http://example.org/tags/all/</link>
+      <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
+      
+      <guid>http://example.org/tags/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>http://example.org/tags/online/</link>
+      <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
+      
+      <guid>http://example.org/tags/online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoga</title>
+      <link>http://example.org/tags/yoga/</link>
+      <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
+      
+      <guid>http://example.org/tags/yoga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delivery</title>
+      <link>http://example.org/tags/delivery/</link>
+      <pubDate>Sun, 29 Mar 2020 22:18:10 +0100</pubDate>
+      
+      <guid>http://example.org/tags/delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>http://example.org/tags/books/</link>
+      <pubDate>Sun, 29 Mar 2020 22:18:03 +0100</pubDate>
+      
+      <guid>http://example.org/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beer</title>
+      <link>http://example.org/tags/beer/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:17 +0100</pubDate>
+      
+      <guid>http://example.org/tags/beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caribbean</title>
+      <link>http://example.org/tags/caribbean/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:52 +0100</pubDate>
+      
+      <guid>http://example.org/tags/caribbean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fish&#43;Chips</title>
+      <link>http://example.org/tags/fish&#43;chips/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:37 +0100</pubDate>
+      
+      <guid>http://example.org/tags/fish&#43;chips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meals</title>
+      <link>http://example.org/tags/meals/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:37 +0100</pubDate>
+      
+      <guid>http://example.org/tags/meals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collection</title>
+      <link>http://example.org/tags/collection/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
+      
+      <guid>http://example.org/tags/collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fruit&#43;Veg</title>
+      <link>http://example.org/tags/fruit&#43;veg/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
+      
+      <guid>http://example.org/tags/fruit&#43;veg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gujarati</title>
+      <link>http://example.org/tags/gujarati/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
+      
+      <guid>http://example.org/tags/gujarati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groceries</title>
+      <link>http://example.org/tags/groceries/</link>
+      <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
+      
+      <guid>http://example.org/tags/groceries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butchers</title>
+      <link>http://example.org/tags/butchers/</link>
+      <pubDate>Sun, 29 Mar 2020 19:58:46 +0100</pubDate>
+      
+      <guid>http://example.org/tags/butchers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

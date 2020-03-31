@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wine&#43;Beer on Brixton Local</title>
+    <link>http://example.org/categories/wine&#43;beer/</link>
+    <description>Recent content in Wine&#43;Beer on Brixton Local</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 22:17:17 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/wine+beer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clarkshaws</title>
+      <link>http://example.org/posts/clarkshaws/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:17 +0100</pubDate>
+      
+      <guid>http://example.org/posts/clarkshaws/</guid>
+      <description>We are a family run nano brewery in Brixton. Award winning and all vegan beers. We have plenty of bottles, cases and 5L minikegs of beer available.
+How to order: Online, delivering for free in the local area.
+Website: https://www.clarkshaws.co.uk/shop.html
+Address: Arch 497 Ridgway Road, London, SW9 7EX</description>
+    </item>
+    
+    <item>
+      <title>Canopy</title>
+      <link>http://example.org/posts/canopy/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:11 +0100</pubDate>
+      
+      <guid>http://example.org/posts/canopy/</guid>
+      <description>Tap room is closed, no takeaways or collection. But don’t worry, getting beer is easy and it’s free delivery over £30.
+How to order: Online, see online for next delivery date
+Website: https://shop.canopybeer.com/
+Address: Arch 1127, Bath Factory Estate, 41 Norwood Road, London SE24 9AJ</description>
+    </item>
+    
+    <item>
+      <title>Brixton Brewery</title>
+      <link>http://example.org/posts/bbrewery/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:03 +0100</pubDate>
+      
+      <guid>http://example.org/posts/bbrewery/</guid>
+      <description>Brixton Brewery is one of London’s established craft breweries, making beer in the heart of one of London’s most colourful and famous neighbourhoods. Webshop open with delivery free over £20. Mixed cases available or packs.
+How to order: Order online (2-4 days lead time)
+Website: https://www.BrixtonBrewery.com/shop
+Address: Arches 547+548, Brixton Station Road, London SW9 8PF</description>
+    </item>
+    
+  </channel>
+</rss>

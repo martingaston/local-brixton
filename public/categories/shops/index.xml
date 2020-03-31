@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shops on Brixton Local</title>
+    <link>http://example.org/categories/shops/</link>
+    <description>Recent content in Shops on Brixton Local</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 22:18:03 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/shops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Herne Hill Books</title>
+      <link>http://example.org/posts/hhbooks/</link>
+      <pubDate>Sun, 29 Mar 2020 22:18:03 +0100</pubDate>
+      
+      <guid>http://example.org/posts/hhbooks/</guid>
+      <description>We are closed and will remain so for as long as this takes. We are taking phone, email &amp;amp; twitter orders which will be posted out straight from our wholesalers. Thank you all so much for your messages and continued support. Stay home, stay safe and see you on the other side.
+How to order: Phone 020 7998 1673, Email shop@hernehillbooks.com, Twitter @HerneHillBooks
+Address: 289 Railton Rd, Brixton, London SE24 0LY</description>
+    </item>
+    
+    <item>
+      <title>Jones</title>
+      <link>http://example.org/posts/jones/</link>
+      <pubDate>Sun, 29 Mar 2020 19:58:46 +0100</pubDate>
+      
+      <guid>http://example.org/posts/jones/</guid>
+      <description>&lt;p&gt;Delivery of meat boxes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ashby&#39;s Shop</title>
+      <link>http://example.org/posts/ashby/</link>
+      <pubDate>Sun, 29 Mar 2020 19:39:30 +0100</pubDate>
+      
+      <guid>http://example.org/posts/ashby/</guid>
+      <description>Shop is currently closed but they have 2 teams of bikes delivering within 2 miles. &amp;ldquo;Currently we have a wide selection of coffee and tea, grains, pulses pasta and rice. Cans, jars and delicious treats for those with a sweet tooth, dairy alternatives and other household essentials - mostly plant based.
+How to order: Online between 8am - 8pm online for next day delivery at the latest
+Website: https://www.ashbys.shop/
+Address: 112D Brixton Hill, SW2 1AH</description>
+    </item>
+    
+  </channel>
+</rss>

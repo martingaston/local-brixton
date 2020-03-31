@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2020-03-30T21:40:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-03-30T21:40:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/desc/</loc>
+    <lastmod>2020-03-30T21:40:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/code/</loc>
+    <lastmod>2020-03-30T10:50:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/all/</loc>
+    <lastmod>2020-03-29T22:18:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/byoga/</loc>
+    <lastmod>2020-03-29T22:18:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2020-03-29T22:18:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/fitness/</loc>
+    <lastmod>2020-03-29T22:18:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/online/</loc>
+    <lastmod>2020-03-29T22:18:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-03-29T22:18:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-03-29T22:18:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/yoga/</loc>
+    <lastmod>2020-03-29T22:18:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/hotpod/</loc>
+    <lastmod>2020-03-29T22:18:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/croxted/</loc>
+    <lastmod>2020-03-29T22:18:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/delivery/</loc>
+    <lastmod>2020-03-29T22:18:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/garden/</loc>
+    <lastmod>2020-03-29T22:18:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/books/</loc>
+    <lastmod>2020-03-29T22:18:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/hhbooks/</loc>
+    <lastmod>2020-03-29T22:18:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/shops/</loc>
+    <lastmod>2020-03-29T22:18:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/beer/</loc>
+    <lastmod>2020-03-29T22:17:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/clarkshaws/</loc>
+    <lastmod>2020-03-29T22:17:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/wine&#43;beer/</loc>
+    <lastmod>2020-03-29T22:17:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/canopy/</loc>
+    <lastmod>2020-03-29T22:17:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/bbrewery/</loc>
+    <lastmod>2020-03-29T22:17:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/caribbean/</loc>
+    <lastmod>2020-03-29T22:16:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/jerkyfridays/</loc>
+    <lastmod>2020-03-29T22:16:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/takeaway/</loc>
+    <lastmod>2020-03-29T22:16:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/chipshop/</loc>
+    <lastmod>2020-03-29T22:16:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/fish&#43;chips/</loc>
+    <lastmod>2020-03-29T22:16:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/meals/</loc>
+    <lastmod>2020-03-29T22:16:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/blank/</loc>
+    <lastmod>2020-03-29T22:16:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/cafes/</loc>
+    <lastmod>2020-03-29T22:16:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/collection/</loc>
+    <lastmod>2020-03-29T22:16:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/enroot/</loc>
+    <lastmod>2020-03-29T22:16:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/fruit&#43;veg/</loc>
+    <lastmod>2020-03-29T22:16:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/gujarati/</loc>
+    <lastmod>2020-03-29T22:16:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/groceries/</loc>
+    <lastmod>2020-03-29T22:15:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/hood/</loc>
+    <lastmod>2020-03-29T22:15:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/restaurants/</loc>
+    <lastmod>2020-03-29T22:15:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/maremma/</loc>
+    <lastmod>2020-03-29T22:15:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/fuse/</loc>
+    <lastmod>2020-03-29T22:06:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/ledaily/</loc>
+    <lastmod>2020-03-29T20:11:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/butchers/</loc>
+    <lastmod>2020-03-29T19:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/jones/</loc>
+    <lastmod>2020-03-29T19:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/ashby/</loc>
+    <lastmod>2020-03-29T19:39:30+01:00</lastmod>
+  </url>
+  
+</urlset>

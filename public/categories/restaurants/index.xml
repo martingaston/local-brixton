@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restaurants on Brixton Local</title>
+    <link>http://example.org/categories/restaurants/</link>
+    <description>Recent content in Restaurants on Brixton Local</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 22:15:55 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/restaurants/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hood</title>
+      <link>http://example.org/posts/hood/</link>
+      <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
+      
+      <guid>http://example.org/posts/hood/</guid>
+      <description>We have an excellent stock of eggs, fruit &amp;amp; veg, flour, other store cupboard basics, wine, beer, soft drinks and of course Mike’s marvellous meals! They are all frozen to be enjoyed at home.
+How to order: Open for collection, phone 02036013320 for bike delivery. Open Tuesday-Saturday 9.30am- 2.30pm
+Website: https://www.hoodrestaurants.com/popup-menu/ and check @hoodstreatham on instagram for daily updates
+Address: 67 Streatham Hill, SW2 4TX</description>
+    </item>
+    
+    <item>
+      <title>Maremma</title>
+      <link>http://example.org/posts/maremma/</link>
+      <pubDate>Sun, 29 Mar 2020 22:15:48 +0100</pubDate>
+      
+      <guid>http://example.org/posts/maremma/</guid>
+      <description>Maremma Deli is our new collection takeaway service bringing restaurant-quality, oven-ready meals, Maremman cheese and charcuterie, wine, fresh fruit and vegetable bags, homemade fresh pasta and sauces and other essentials
+How to order: Email info@maremmarestaurant.com. Order by 3pm for collection next day. Collection is between 3-5pm Wed-Fri. Local delivery is £5. See website for menu.
+Website: https://www.maremmarestaurant.com/maremma-deli
+Address: 36 Brixton Water Lane, London, SW2 1PE</description>
+    </item>
+    
+  </channel>
+</rss>

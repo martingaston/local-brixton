@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caribbean on Brixton Local</title>
+    <link>http://example.org/tags/caribbean/</link>
+    <description>Recent content in Caribbean on Brixton Local</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 22:16:52 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/caribbean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jerkyfridays</title>
+      <link>http://example.org/posts/jerkyfridays/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:52 +0100</pubDate>
+      
+      <guid>http://example.org/posts/jerkyfridays/</guid>
+      <description>Sit back, relax, and enjoy our wide selection of delicious Caribbean cuisine. Message through their facebook page for menu and ordering/delivery information
+How to order: Message via Facebook, or order through JustEat https://www.facebook.com/JerkyFridays Collection Friday - Sunday 2-10pm (order first)
+Address: Palace Road, Tulse Hill, SW2 3JZ</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online on Brixton Local</title>
+    <link>http://example.org/tags/online/</link>
+    <description>Recent content in Online on Brixton Local</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 22:18:25 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/online/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brixton Yoga</title>
+      <link>http://example.org/posts/byoga/</link>
+      <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
+      
+      <guid>http://example.org/posts/byoga/</guid>
+      <description>Daily live yoga by Zoom, see Instagram and Facebook page for the daily links
+https://www.brixtonyoga.co.uk/
+Free but can give donation amount</description>
+    </item>
+    
+    <item>
+      <title>Fuse</title>
+      <link>http://example.org/posts/fuse/</link>
+      <pubDate>Sun, 29 Mar 2020 22:06:15 +0100</pubDate>
+      
+      <guid>http://example.org/posts/fuse/</guid>
+      <description>&lt;p&gt;Live streamed daily exercise classes.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Brixton Local</title>
+    <link>http://example.org/about/</link>
+    <description>Recent content in Abouts on Brixton Local</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Mar 2020 21:40:30 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Local Brixton</title>
+      <link>http://example.org/about/desc/</link>
+      <pubDate>Mon, 30 Mar 2020 21:40:30 +0100</pubDate>
+      
+      <guid>http://example.org/about/desc/</guid>
+      <description>We started this page during the Covid-19 Lockdown to connect people with businesses and services still operating in Brixton, and to help businesses move online quickly. We thought if we could support local people and businesses in this small way, we might just come out of this stronger and more aware of what&amp;rsquo;s on offer in our amazing local area, and how they continued to serve us, even under the most difficult circumstances.</description>
+    </item>
+    
+    <item>
+      <title>Website Info</title>
+      <link>http://example.org/about/code/</link>
+      <pubDate>Mon, 30 Mar 2020 10:50:08 +0100</pubDate>
+      
+      <guid>http://example.org/about/code/</guid>
+      <description>This website was built (very quickly!) by Johanna with Hugo using an adapted Dream theme.
+The code is publicly available at this Github repo and we accept pull requests, particularly on styling!
+Please get in touch if you would like advice on how to build something similar for your area.</description>
+    </item>
+    
+  </channel>
+</rss>
