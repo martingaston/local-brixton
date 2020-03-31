@@ -4,7 +4,7 @@ date: 2020-03-29T19:39:30+01:00
 lastmod: 2020-03-29T19:39:30+01:00
 author: Johanna
 cover: /img/ashby.jpeg
-categories: ["Shops"]
+categories: ["Food+Drink"]
 tags: ["Groceries", "Delivery", "All"]
 # showcase: true
 ---

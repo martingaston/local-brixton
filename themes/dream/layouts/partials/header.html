@@ -10,7 +10,7 @@
       Brixton Local
       <div class="sub header" style="margin-top: 0.5rem;">{{- .Site.Params.motto -}}</div>
     </h1>
-    <p> Supporting our local businesses during the COVID-19 lockdown</p>
+    <p> Supporting local businesses still operating during the COVID-19 lockdown</p>
   </section>
 
   {{ if .Site.Taxonomies.tags }}
@@ -18,30 +18,6 @@
     {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
       <a class="ui label" href="{{ "tags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">{{ $name }}</a>
     {{ end }}
-  </section>
-  {{ end }}
-
-  {{ if .Site.Taxonomies.categories }}
-  <section class="ui attached segment dream-categories">
-    <div class="ui accordion">
-      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="{{ "categories/" | relLangURL }}{{ $name | urlize }}" class="item">{{ $name }}</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          {{ range $taxonomy.Pages }}
-            <div class="item">
-              <div class="content">
-                <a href="{{ .Permalink }}" class="item">{{ .LinkTitle }}</a>
-              </div>
-            </div>
-          {{ end }}
-          </div>
-        </div>
-      {{ end }}
-    </div>
   </section>
   {{ end }}
 

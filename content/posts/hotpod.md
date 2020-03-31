@@ -5,7 +5,7 @@ lastmod: 2020-03-29T22:18:20+01:00
 author: Author Name
 cover: /img/hotpod.jpeg
 categories: ["Fitness"]
-tags: ["Yoga", "All"]
+tags: ["Yoga", "All", "Online"]
 # showcase: true
 ---
 

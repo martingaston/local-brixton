@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fitness on Brixton Local</title>
-    <link>http://example.org/categories/fitness/</link>
+    <link>https://tender-bell-527fff.netlify.com/categories/fitness/</link>
     <description>Recent content in Fitness on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 22:18:25 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/fitness/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tender-bell-527fff.netlify.com/categories/fitness/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Brixton Yoga</title>
-      <link>http://example.org/posts/byoga/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/byoga/</link>
       <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>http://example.org/posts/byoga/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/byoga/</guid>
       <description>Daily live yoga by Zoom, see Instagram and Facebook page for the daily links
 https://www.brixtonyoga.co.uk/
 Free but can give donation amount</description>
@@ -24,10 +24,10 @@ Free but can give donation amount</description>
     
     <item>
       <title>Hotpod Yoga Brixton</title>
-      <link>http://example.org/posts/hotpod/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/hotpod/</link>
       <pubDate>Sun, 29 Mar 2020 22:18:20 +0100</pubDate>
       
-      <guid>http://example.org/posts/hotpod/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/hotpod/</guid>
       <description>Hotpod Yoga Brixton	is offering online classes without the heat!
 Website: https://hotpodyoga.com/studios/brixton/schedule/
 Donation amount</description>
@@ -35,10 +35,10 @@ Donation amount</description>
     
     <item>
       <title>Fuse</title>
-      <link>http://example.org/posts/fuse/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/fuse/</link>
       <pubDate>Sun, 29 Mar 2020 22:06:15 +0100</pubDate>
       
-      <guid>http://example.org/posts/fuse/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/fuse/</guid>
       <description>&lt;p&gt;Live streamed daily exercise classes.&lt;/p&gt;</description>
     </item>
     

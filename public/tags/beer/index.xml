@@ -2,21 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beer on Brixton Local</title>
-    <link>http://example.org/tags/beer/</link>
+    <link>https://tender-bell-527fff.netlify.com/tags/beer/</link>
     <description>Recent content in Beer on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 22:17:17 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 22:17:35 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/beer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tender-bell-527fff.netlify.com/tags/beer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Wild &#43; Lees</title>
+      <link>https://tender-bell-527fff.netlify.com/posts/wildlees/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:35 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/posts/wildlees/</guid>
+      <description>KEEPING HERNE HILL HANDSOMELY STOCKED WITH PLUCKY WINES,WELL-CRAFTED BEERS &amp;amp; SMALL-BATCH SPIRITS.
+How to order: Email hello@wildandlees.com or Phone 07985218570. Hours are TUES-SAT 12-6, SUN 11-3	Wine delivery to SW2, SE24, SE21, SE22, SE27, SE5 or collection
+Website: http://wildandlees.com/
+Address: 2 Half Moon Ln, Dulwich, London SE24 9HU</description>
+    </item>
+    
+    <item>
+      <title>London Beer Lab</title>
+      <link>https://tender-bell-527fff.netlify.com/posts/londonbeer/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:28 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/posts/londonbeer/</guid>
+      <description>Sharing beery knowledge and good times since 2013. A brewery, a place to come and learn how to brew, bottle shop, taproom and home brew supply store.
+How to order: Online. Free delivery. Cans, bottles and draft beer on collection.
+Website: https://www.londonbeerlab.com/category-s/245.htm</description>
+    </item>
+    
+    <item>
       <title>Clarkshaws</title>
-      <link>http://example.org/posts/clarkshaws/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/clarkshaws/</link>
       <pubDate>Sun, 29 Mar 2020 22:17:17 +0100</pubDate>
       
-      <guid>http://example.org/posts/clarkshaws/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/clarkshaws/</guid>
       <description>We are a family run nano brewery in Brixton. Award winning and all vegan beers. We have plenty of bottles, cases and 5L minikegs of beer available.
 How to order: Online, delivering for free in the local area.
 Website: https://www.clarkshaws.co.uk/shop.html
@@ -25,10 +48,10 @@ Address: Arch 497 Ridgway Road, London, SW9 7EX</description>
     
     <item>
       <title>Canopy</title>
-      <link>http://example.org/posts/canopy/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/canopy/</link>
       <pubDate>Sun, 29 Mar 2020 22:17:11 +0100</pubDate>
       
-      <guid>http://example.org/posts/canopy/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/canopy/</guid>
       <description>Tap room is closed, no takeaways or collection. But don’t worry, getting beer is easy and it’s free delivery over £30.
 How to order: Online, see online for next delivery date
 Website: https://shop.canopybeer.com/
@@ -37,10 +60,10 @@ Address: Arch 1127, Bath Factory Estate, 41 Norwood Road, London SE24 9AJ</descr
     
     <item>
       <title>Brixton Brewery</title>
-      <link>http://example.org/posts/bbrewery/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/bbrewery/</link>
       <pubDate>Sun, 29 Mar 2020 22:17:03 +0100</pubDate>
       
-      <guid>http://example.org/posts/bbrewery/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/bbrewery/</guid>
       <description>Brixton Brewery is one of London’s established craft breweries, making beer in the heart of one of London’s most colourful and famous neighbourhoods. Webshop open with delivery free over £20. Mixed cases available or packs.
 How to order: Order online (2-4 days lead time)
 Website: https://www.BrixtonBrewery.com/shop

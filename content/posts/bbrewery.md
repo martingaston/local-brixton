@@ -4,7 +4,7 @@ date: 2020-03-29T22:17:03+01:00
 lastmod: 2020-03-29T22:17:03+01:00
 author: Author Name
 cover: /img/bb.jpeg
-categories: ["Wine+Beer"]
+categories: ["Food+Drink"]
 tags: ["Delivery", "Beer", "All"]
 # showcase: true
 ---

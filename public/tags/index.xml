@@ -2,138 +2,219 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Brixton Local</title>
-    <link>http://example.org/tags/</link>
+    <link>https://tender-bell-527fff.netlify.com/tags/</link>
     <description>Recent content in Tags on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 22:18:25 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tender-bell-527fff.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>All</title>
-      <link>http://example.org/tags/all/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/all/</link>
       <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>http://example.org/tags/all/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/all/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online</title>
-      <link>http://example.org/tags/online/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/online/</link>
       <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>http://example.org/tags/online/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/online/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yoga</title>
-      <link>http://example.org/tags/yoga/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/yoga/</link>
       <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>http://example.org/tags/yoga/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/yoga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delivery</title>
-      <link>http://example.org/tags/delivery/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/delivery/</link>
       <pubDate>Sun, 29 Mar 2020 22:18:10 +0100</pubDate>
       
-      <guid>http://example.org/tags/delivery/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garden</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/garden/</link>
+      <pubDate>Sun, 29 Mar 2020 22:18:10 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/garden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>http://example.org/tags/books/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/books/</link>
       <pubDate>Sun, 29 Mar 2020 22:18:03 +0100</pubDate>
       
-      <guid>http://example.org/tags/books/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/children/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:51 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/children/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beer</title>
-      <link>http://example.org/tags/beer/</link>
-      <pubDate>Sun, 29 Mar 2020 22:17:17 +0100</pubDate>
+      <link>https://tender-bell-527fff.netlify.com/tags/beer/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:35 +0100</pubDate>
       
-      <guid>http://example.org/tags/beer/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wine</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/wine/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:35 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/wine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caribbean</title>
-      <link>http://example.org/tags/caribbean/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/caribbean/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:52 +0100</pubDate>
       
-      <guid>http://example.org/tags/caribbean/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/caribbean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fish&#43;Chips</title>
-      <link>http://example.org/tags/fish&#43;chips/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/fish&#43;chips/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:37 +0100</pubDate>
       
-      <guid>http://example.org/tags/fish&#43;chips/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/fish&#43;chips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meals</title>
-      <link>http://example.org/tags/meals/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/meals/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:37 +0100</pubDate>
       
-      <guid>http://example.org/tags/meals/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/meals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cafe</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/cafe/</link>
+      <pubDate>Sun, 29 Mar 2020 22:16:29 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/cafe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collection</title>
-      <link>http://example.org/tags/collection/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/collection/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
       
-      <guid>http://example.org/tags/collection/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/collection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fruit&#43;Veg</title>
-      <link>http://example.org/tags/fruit&#43;veg/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/fruit&#43;veg/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
       
-      <guid>http://example.org/tags/fruit&#43;veg/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/fruit&#43;veg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gujarati</title>
-      <link>http://example.org/tags/gujarati/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/gujarati/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
       
-      <guid>http://example.org/tags/gujarati/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/gujarati/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Groceries</title>
-      <link>http://example.org/tags/groceries/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/groceries/</link>
       <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
       
-      <guid>http://example.org/tags/groceries/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/groceries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern British</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/modern-british/</link>
+      <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/modern-british/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restaurant</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/restaurant/</link>
+      <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/restaurant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuscan</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/tuscan/</link>
+      <pubDate>Sun, 29 Mar 2020 22:15:48 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/tuscan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circuits</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/circuits/</link>
+      <pubDate>Sun, 29 Mar 2020 22:06:15 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIIT</title>
+      <link>https://tender-bell-527fff.netlify.com/tags/hiit/</link>
+      <pubDate>Sun, 29 Mar 2020 22:06:15 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/tags/hiit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Butchers</title>
-      <link>http://example.org/tags/butchers/</link>
+      <link>https://tender-bell-527fff.netlify.com/tags/butchers/</link>
       <pubDate>Sun, 29 Mar 2020 19:58:46 +0100</pubDate>
       
-      <guid>http://example.org/tags/butchers/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/tags/butchers/</guid>
       <description></description>
     </item>
     

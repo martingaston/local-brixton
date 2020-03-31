@@ -4,7 +4,7 @@ date: 2020-03-29T22:16:21+01:00
 lastmod: 2020-03-29T22:16:21+01:00
 author: Author Name
 cover: /img/enroot.jpeg
-categories: ["Takeaway"]
+categories: ["Food+Drink"]
 tags: ["Fruit+Veg", "All", "Delivery", "Collection", "Gujarati", "Meals"]
 # showcase: true
 ---

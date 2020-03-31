@@ -5,7 +5,7 @@ lastmod: 2020-03-29T22:06:15+01:00
 author: Johanna
 cover: /img/fuse.jpeg
 categories: ["fitness"]
-tags: ["Online", "All"]
+tags: ["Online", "All", "Yoga", "Circuits", "HIIT"]
 # showcase: true
 ---
 

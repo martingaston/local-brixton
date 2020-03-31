@@ -4,7 +4,7 @@ date: 2020-03-29T22:17:17+01:00
 lastmod: 2020-03-29T22:17:17+01:00
 author: Author Name
 cover: /img/clarkshaws.jpeg
-categories: ["Wine+Beer"]
+categories: ["Food+Drink"]
 tags: ["All", "Beer", "Delivery"]
 # showcase: true
 ---

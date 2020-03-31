@@ -4,7 +4,7 @@ date: 2020-03-29T22:16:52+01:00
 lastmod: 2020-03-29T22:16:52+01:00
 author: Author Name
 cover: /img/jerkys.jpeg
-categories: ["Takeaway"]
+categories: ["Food+Drink"]
 tags: ["Delivery", "All", "Caribbean"]
 # showcase: true
 ---

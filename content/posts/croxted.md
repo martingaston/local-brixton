@@ -4,8 +4,8 @@ date: 2020-03-29T22:18:10+01:00
 lastmod: 2020-03-29T22:18:10+01:00
 author: Author Name
 cover: /img/croxted.jpeg
-categories: ["Garden"]
-tags: ["All", "Delivery"]
+categories: ["Shops"]
+tags: ["All", "Delivery", "Garden"]
 # showcase: true
 ---
 Helping gardens for over 40 years, our family-run business is built upon a love for all things green. We recommend, support, advise and sell an extensive range of plants, trees and shrubs - all available at very reasonable prices.  

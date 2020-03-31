@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fish&#43;Chips on Brixton Local</title>
-    <link>http://example.org/tags/fish&#43;chips/</link>
+    <link>https://tender-bell-527fff.netlify.com/tags/fish&#43;chips/</link>
     <description>Recent content in Fish&#43;Chips on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 22:16:37 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/fish+chips/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tender-bell-527fff.netlify.com/tags/fish+chips/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Brixton Chip Shop</title>
-      <link>http://example.org/posts/chipshop/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/chipshop/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:37 +0100</pubDate>
       
-      <guid>http://example.org/posts/chipshop/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/chipshop/</guid>
       <description>Chip Shop has launched its new delivery menu with a selection of favourite fish, meat, vegetarian and vegan classics. We are delivering direct to our customers within one mile of the Chip Shop so you won&amp;rsquo;t have to wait hours for your order using a traditional delivery service.
 How to order: Online - Delivery is available Monday to Friday from 6:30pm – 10:30pm and 4pm – 10:30pm Saturday and Sunday</description>
     </item>

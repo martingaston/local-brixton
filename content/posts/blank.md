@@ -4,8 +4,8 @@ date: 2020-03-29T22:16:29+01:00
 lastmod: 2020-03-29T22:16:29+01:00
 author: Author Name
 cover: /img/blank.jpeg
-categories: ["Cafes"]
-tags: ["Delivery", "Meals", "All"]
+categories: ["Food+Drink"]
+tags: ["Delivery", "Meals", "All", "cafe"]
 # showcase: true
 ---
 

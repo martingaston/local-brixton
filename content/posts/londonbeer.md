@@ -1,17 +1,18 @@
 ---
-title: Londonbeer
+title: London Beer Lab
 date: 2020-03-29T22:17:28+01:00
 lastmod: 2020-03-29T22:17:28+01:00
 author: Author Name
-cover: /img/cover.jpg
-categories: ["category1"]
-tags: ["tag1", "tag2"]
+cover: /img/londonbeer.jpeg
+categories: ["Food+Drink"]
+tags: ["Beer", "Delivery", "All"]
 # showcase: true
-draft: true
 ---
 
-Cut out summary from your post content here.
+Sharing beery knowledge and good times since 2013. A brewery, a place to come and learn how to brew, bottle shop, taproom and home brew supply store.
 
-<!--more-->
+How to order: Online. Free delivery. Cans, bottles and draft beer on collection.
 
-The remaining content of your post.
+Website: https://www.londonbeerlab.com/category-s/245.htm
+
+

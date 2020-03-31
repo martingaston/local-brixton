@@ -2,24 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Brixton Local</title>
-    <link>http://example.org/tags/books/</link>
+    <link>https://tender-bell-527fff.netlify.com/tags/books/</link>
     <description>Recent content in Books on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 22:18:03 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tender-bell-527fff.netlify.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Herne Hill Books</title>
-      <link>http://example.org/posts/hhbooks/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/hhbooks/</link>
       <pubDate>Sun, 29 Mar 2020 22:18:03 +0100</pubDate>
       
-      <guid>http://example.org/posts/hhbooks/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/hhbooks/</guid>
       <description>We are closed and will remain so for as long as this takes. We are taking phone, email &amp;amp; twitter orders which will be posted out straight from our wholesalers. Thank you all so much for your messages and continued support. Stay home, stay safe and see you on the other side.
 How to order: Phone 020 7998 1673, Email shop@hernehillbooks.com, Twitter @HerneHillBooks
 Address: 289 Railton Rd, Brixton, London SE24 0LY</description>
+    </item>
+    
+    <item>
+      <title>Tales on Moon Lane</title>
+      <link>https://tender-bell-527fff.netlify.com/posts/tales/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:51 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/posts/tales/</guid>
+      <description>Award winning independent children&amp;rsquo;s book shop. We look forward to hearing from you to offer book advice (including home learning), orders and delivery and we remain grateful to you for all your support during this strange and difficult time.
+How to order: Phone 020 7274 5759 or Email info@talesonmoonlane.co.uk. Delivering Monday to Thursday 12-4pm.
+Website: https://www.talesonmoonlane.co.uk/
+Address: 25 Half Moon Ln, Dulwich, London SE24 9JU</description>
+    </item>
+    
+    <item>
+      <title>Little Box of Books</title>
+      <link>https://tender-bell-527fff.netlify.com/posts/littlebox/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:44 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/posts/littlebox/</guid>
+      <description>We&amp;rsquo;re based in Brixton and do boxes of inclusive and representative children&amp;rsquo;s books for 0-11 year olds. Our boxes have puzzles and activities in them and a free gift. We do them as a subscription or one off gifts&amp;hellip; we are well stocked and ready to deliver.
+How to order: online
+Website: https://littleboxofbooks.co.uk/</description>
     </item>
     
   </channel>

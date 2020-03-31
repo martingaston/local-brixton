@@ -2,75 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Brixton Local</title>
-    <link>http://example.org/categories/</link>
+    <link>https://tender-bell-527fff.netlify.com/categories/</link>
     <description>Recent content in Categories on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 22:18:25 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tender-bell-527fff.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fitness</title>
-      <link>http://example.org/categories/fitness/</link>
+      <link>https://tender-bell-527fff.netlify.com/categories/fitness/</link>
       <pubDate>Sun, 29 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>http://example.org/categories/fitness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Garden</title>
-      <link>http://example.org/categories/garden/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:10 +0100</pubDate>
-      
-      <guid>http://example.org/categories/garden/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/categories/fitness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shops</title>
-      <link>http://example.org/categories/shops/</link>
-      <pubDate>Sun, 29 Mar 2020 22:18:03 +0100</pubDate>
+      <link>https://tender-bell-527fff.netlify.com/categories/shops/</link>
+      <pubDate>Sun, 29 Mar 2020 22:18:10 +0100</pubDate>
       
-      <guid>http://example.org/categories/shops/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/categories/shops/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Wine&#43;Beer</title>
-      <link>http://example.org/categories/wine&#43;beer/</link>
-      <pubDate>Sun, 29 Mar 2020 22:17:17 +0100</pubDate>
+      <title>Food&#43;Drink</title>
+      <link>https://tender-bell-527fff.netlify.com/categories/food&#43;drink/</link>
+      <pubDate>Sun, 29 Mar 2020 22:17:35 +0100</pubDate>
       
-      <guid>http://example.org/categories/wine&#43;beer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Takeaway</title>
-      <link>http://example.org/categories/takeaway/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:52 +0100</pubDate>
-      
-      <guid>http://example.org/categories/takeaway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cafes</title>
-      <link>http://example.org/categories/cafes/</link>
-      <pubDate>Sun, 29 Mar 2020 22:16:29 +0100</pubDate>
-      
-      <guid>http://example.org/categories/cafes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Restaurants</title>
-      <link>http://example.org/categories/restaurants/</link>
-      <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
-      
-      <guid>http://example.org/categories/restaurants/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/categories/food&#43;drink/</guid>
       <description></description>
     </item>
     

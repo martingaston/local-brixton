@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collection on Brixton Local</title>
-    <link>http://example.org/tags/collection/</link>
+    <link>https://tender-bell-527fff.netlify.com/tags/collection/</link>
     <description>Recent content in Collection on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 22:16:21 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/collection/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tender-bell-527fff.netlify.com/tags/collection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Enroot</title>
-      <link>http://example.org/posts/enroot/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/enroot/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:21 +0100</pubDate>
       
-      <guid>http://example.org/posts/enroot/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/enroot/</guid>
       <description>With a focus on health, EN ROOT celebrates fresh seasonal vegetables, wholesome pulses and aromatic Gujarati spices to deliver a unique, internationally influenced menu. Currently providing An ESSENTIAL Root Veg &amp;amp; Fruit Box for £25. A selection of EN ROOT’s favourite &amp;amp; inest fruit &amp;amp; veg while we on lockdown. https://www.enrootldn.co.uk/products/covid-root-box
 How to order: Online, Free delivery to South London
 Website: https://www.enrootldn.co.uk/products
@@ -25,22 +25,34 @@ Address: Clapham Park Road, London, SW4 7EY</description>
     
     <item>
       <title>Hood</title>
-      <link>http://example.org/posts/hood/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/hood/</link>
       <pubDate>Sun, 29 Mar 2020 22:15:55 +0100</pubDate>
       
-      <guid>http://example.org/posts/hood/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/hood/</guid>
       <description>We have an excellent stock of eggs, fruit &amp;amp; veg, flour, other store cupboard basics, wine, beer, soft drinks and of course Mike’s marvellous meals! They are all frozen to be enjoyed at home.
-How to order: Open for collection, phone 02036013320 for bike delivery. Open Tuesday-Saturday 9.30am- 2.30pm
+How to order: Open for collection, phone 02036013320 for delivery within 5 miles. Open Tuesday-Saturday 9.30am- 2.30pm. 10 delivery slots a day.
 Website: https://www.hoodrestaurants.com/popup-menu/ and check @hoodstreatham on instagram for daily updates
 Address: 67 Streatham Hill, SW2 4TX</description>
     </item>
     
     <item>
+      <title>Maremma</title>
+      <link>https://tender-bell-527fff.netlify.com/posts/maremma/</link>
+      <pubDate>Sun, 29 Mar 2020 22:15:48 +0100</pubDate>
+      
+      <guid>https://tender-bell-527fff.netlify.com/posts/maremma/</guid>
+      <description>Maremma Deli is our new collection takeaway service bringing restaurant-quality, oven-ready meals, Maremman cheese and charcuterie, wine, fresh fruit and vegetable bags, homemade fresh pasta and sauces and other essentials
+How to order: Email info@maremmarestaurant.com. Order by 3pm for collection next day. Collection is between 3-5pm Wed-Fri. Local delivery is £5. See website for menu.
+Website: https://www.maremmarestaurant.com/maremma-deli
+Address: 36 Brixton Water Lane, London, SW2 1PE</description>
+    </item>
+    
+    <item>
       <title>Le DailyCorner Cafe</title>
-      <link>http://example.org/posts/ledaily/</link>
+      <link>https://tender-bell-527fff.netlify.com/posts/ledaily/</link>
       <pubDate>Sun, 29 Mar 2020 20:11:04 +0100</pubDate>
       
-      <guid>http://example.org/posts/ledaily/</guid>
+      <guid>https://tender-bell-527fff.netlify.com/posts/ledaily/</guid>
       <description>Fruit, veg, bread, pastries. and cakes available to collect. Delivering fruit and veg for self-isolated people. Check their instagram daily for a morning video of what they have that day.
 How to order: Email ledailycorner@outlook.com Open 9am - 3pm (Tues - Sun) for takeaway and delivery within 1/2 mile
 Website: @le_dailycorner on instagram

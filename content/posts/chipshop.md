@@ -4,7 +4,7 @@ date: 2020-03-29T22:16:37+01:00
 lastmod: 2020-03-29T22:16:37+01:00
 author: Author Name
 cover: /img/chipshop.jpeg
-categories: ["Takeaway"]
+categories: ["Food+Drink"]
 tags: ["All", "Delivery", "Meals", "Fish+Chips"]
 # showcase: true
 ---

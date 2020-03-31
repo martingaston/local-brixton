@@ -4,7 +4,7 @@ date: 2020-03-29T22:17:11+01:00
 lastmod: 2020-03-29T22:17:11+01:00
 author: Author Name
 cover: /img/canopy.jpeg
-categories: ["Wine+Beer"]
+categories: ["Food+Drink"]
 tags: ["Beer", "Delivery", "All"]
 # showcase: true
 ---
