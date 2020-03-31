@@ -2,291 +2,327 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Brixton Local</title>
-    <link>https://tender-bell-527fff.netlify.com/tags/</link>
+    <link>http://www.brixtonlocal.life/tags/</link>
     <description>Recent content in Tags on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Mar 2020 19:39:30 +0100</lastBuildDate>
     
-	<atom:link href="https://tender-bell-527fff.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.brixtonlocal.life/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>All</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/all/</link>
+      <link>http://www.brixtonlocal.life/tags/all/</link>
       <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/all/</guid>
+      <guid>http://www.brixtonlocal.life/tags/all/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delivery</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/delivery/</link>
+      <link>http://www.brixtonlocal.life/tags/delivery/</link>
       <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/delivery/</guid>
+      <guid>http://www.brixtonlocal.life/tags/delivery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Groceries</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/groceries/</link>
+      <link>http://www.brixtonlocal.life/tags/groceries/</link>
       <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/groceries/</guid>
+      <guid>http://www.brixtonlocal.life/tags/groceries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shops</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/shops/</link>
+      <link>http://www.brixtonlocal.life/tags/shops/</link>
       <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/shops/</guid>
+      <guid>http://www.brixtonlocal.life/tags/shops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cafe</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/cafe/</link>
+      <link>http://www.brixtonlocal.life/tags/cafe/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:29 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/cafe/</guid>
+      <guid>http://www.brixtonlocal.life/tags/cafe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meals</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/meals/</link>
+      <link>http://www.brixtonlocal.life/tags/meals/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:29 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/meals/</guid>
+      <guid>http://www.brixtonlocal.life/tags/meals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vegan</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/vegan/</link>
+      <link>http://www.brixtonlocal.life/tags/vegan/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:29 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/vegan/</guid>
+      <guid>http://www.brixtonlocal.life/tags/vegan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beer</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/beer/</link>
+      <link>http://www.brixtonlocal.life/tags/beer/</link>
       <pubDate>Sat, 28 Mar 2020 09:17:03 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/beer/</guid>
+      <guid>http://www.brixtonlocal.life/tags/beer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fish&#43;Chips</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/fish&#43;chips/</link>
+      <link>http://www.brixtonlocal.life/tags/fish&#43;chips/</link>
       <pubDate>Fri, 27 Mar 2020 22:16:37 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/fish&#43;chips/</guid>
+      <guid>http://www.brixtonlocal.life/tags/fish&#43;chips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Community</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/community/</link>
+      <link>http://www.brixtonlocal.life/tags/community/</link>
       <pubDate>Thu, 26 Mar 2020 22:18:39 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/community/</guid>
+      <guid>http://www.brixtonlocal.life/tags/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Donate</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/donate/</link>
+      <link>http://www.brixtonlocal.life/tags/donate/</link>
       <pubDate>Thu, 26 Mar 2020 22:18:39 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/donate/</guid>
+      <guid>http://www.brixtonlocal.life/tags/donate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foodbanks</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/foodbanks/</link>
+      <link>http://www.brixtonlocal.life/tags/foodbanks/</link>
       <pubDate>Thu, 26 Mar 2020 22:18:39 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/foodbanks/</guid>
+      <guid>http://www.brixtonlocal.life/tags/foodbanks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fitness</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/fitness/</link>
+      <link>http://www.brixtonlocal.life/tags/fitness/</link>
       <pubDate>Wed, 25 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/fitness/</guid>
+      <guid>http://www.brixtonlocal.life/tags/fitness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/online/</link>
+      <link>http://www.brixtonlocal.life/tags/online/</link>
       <pubDate>Wed, 25 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/online/</guid>
+      <guid>http://www.brixtonlocal.life/tags/online/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yoga</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/yoga/</link>
+      <link>http://www.brixtonlocal.life/tags/yoga/</link>
       <pubDate>Wed, 25 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/yoga/</guid>
+      <guid>http://www.brixtonlocal.life/tags/yoga/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Support</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/support/</link>
-      <pubDate>Sun, 22 Mar 2020 18:08:27 +0100</pubDate>
+      <title>Bakery</title>
+      <link>http://www.brixtonlocal.life/tags/bakery/</link>
+      <pubDate>Tue, 24 Mar 2020 21:29:48 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/support/</guid>
+      <guid>http://www.brixtonlocal.life/tags/bakery/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Garden</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/garden/</link>
-      <pubDate>Sat, 21 Mar 2020 22:18:10 +0100</pubDate>
+      <title>Coffee</title>
+      <link>http://www.brixtonlocal.life/tags/coffee/</link>
+      <pubDate>Tue, 24 Mar 2020 21:29:48 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/garden/</guid>
+      <guid>http://www.brixtonlocal.life/tags/coffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collection</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/collection/</link>
-      <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
+      <link>http://www.brixtonlocal.life/tags/collection/</link>
+      <pubDate>Tue, 24 Mar 2020 21:29:48 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/collection/</guid>
+      <guid>http://www.brixtonlocal.life/tags/collection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fruit&#43;Veg</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/fruit&#43;veg/</link>
-      <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
+      <title>Support</title>
+      <link>http://www.brixtonlocal.life/tags/support/</link>
+      <pubDate>Sat, 21 Mar 2020 18:08:27 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/fruit&#43;veg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gujarati</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/gujarati/</link>
-      <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/gujarati/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Circuits</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/circuits/</link>
-      <pubDate>Thu, 19 Mar 2020 22:06:15 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/circuits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HIIT</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/hiit/</link>
-      <pubDate>Thu, 19 Mar 2020 22:06:15 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/hiit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/books/</link>
-      <pubDate>Wed, 18 Mar 2020 22:18:03 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modern British</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/modern-british/</link>
-      <pubDate>Tue, 17 Mar 2020 22:15:55 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/modern-british/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Restaurant</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/restaurant/</link>
-      <pubDate>Tue, 17 Mar 2020 22:15:55 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/restaurant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caribbean</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/caribbean/</link>
-      <pubDate>Sun, 15 Mar 2020 22:16:52 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/caribbean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Butchers</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/butchers/</link>
-      <pubDate>Sat, 14 Mar 2020 19:58:46 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/butchers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>French</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/french/</link>
-      <pubDate>Thu, 12 Mar 2020 20:11:04 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/french/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Children</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/children/</link>
-      <pubDate>Wed, 11 Mar 2020 22:17:44 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/children/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tuscan</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/tuscan/</link>
-      <pubDate>Mon, 09 Mar 2020 22:15:48 +0100</pubDate>
-      
-      <guid>https://tender-bell-527fff.netlify.com/tags/tuscan/</guid>
+      <guid>http://www.brixtonlocal.life/tags/support/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wine</title>
-      <link>https://tender-bell-527fff.netlify.com/tags/wine/</link>
-      <pubDate>Fri, 06 Mar 2020 22:17:35 +0100</pubDate>
+      <link>http://www.brixtonlocal.life/tags/wine/</link>
+      <pubDate>Fri, 20 Mar 2020 23:02:13 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/tags/wine/</guid>
+      <guid>http://www.brixtonlocal.life/tags/wine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garden</title>
+      <link>http://www.brixtonlocal.life/tags/garden/</link>
+      <pubDate>Fri, 20 Mar 2020 22:18:10 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fruit&#43;Veg</title>
+      <link>http://www.brixtonlocal.life/tags/fruit&#43;veg/</link>
+      <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/fruit&#43;veg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gujarati</title>
+      <link>http://www.brixtonlocal.life/tags/gujarati/</link>
+      <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/gujarati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circuits</title>
+      <link>http://www.brixtonlocal.life/tags/circuits/</link>
+      <pubDate>Thu, 19 Mar 2020 22:06:15 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIIT</title>
+      <link>http://www.brixtonlocal.life/tags/hiit/</link>
+      <pubDate>Thu, 19 Mar 2020 22:06:15 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/hiit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>http://www.brixtonlocal.life/tags/books/</link>
+      <pubDate>Wed, 18 Mar 2020 22:18:03 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern British</title>
+      <link>http://www.brixtonlocal.life/tags/modern-british/</link>
+      <pubDate>Tue, 17 Mar 2020 22:15:55 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/modern-british/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restaurant</title>
+      <link>http://www.brixtonlocal.life/tags/restaurant/</link>
+      <pubDate>Tue, 17 Mar 2020 22:15:55 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/restaurant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caribbean</title>
+      <link>http://www.brixtonlocal.life/tags/caribbean/</link>
+      <pubDate>Sun, 15 Mar 2020 22:16:52 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/caribbean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butchers</title>
+      <link>http://www.brixtonlocal.life/tags/butchers/</link>
+      <pubDate>Sat, 14 Mar 2020 19:58:46 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/butchers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>French</title>
+      <link>http://www.brixtonlocal.life/tags/french/</link>
+      <pubDate>Thu, 12 Mar 2020 20:11:04 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children</title>
+      <link>http://www.brixtonlocal.life/tags/children/</link>
+      <pubDate>Wed, 11 Mar 2020 22:17:44 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuscan</title>
+      <link>http://www.brixtonlocal.life/tags/tuscan/</link>
+      <pubDate>Mon, 09 Mar 2020 22:15:48 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/tuscan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crepes</title>
+      <link>http://www.brixtonlocal.life/tags/crepes/</link>
+      <pubDate>Sat, 07 Mar 2020 21:29:36 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/crepes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessories</title>
+      <link>http://www.brixtonlocal.life/tags/accessories/</link>
+      <pubDate>Fri, 06 Mar 2020 21:30:01 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/tags/accessories/</guid>
       <description></description>
     </item>
     

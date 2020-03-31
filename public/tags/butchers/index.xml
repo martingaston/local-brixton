@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Butchers on Brixton Local</title>
-    <link>https://tender-bell-527fff.netlify.com/tags/butchers/</link>
+    <link>http://www.brixtonlocal.life/tags/butchers/</link>
     <description>Recent content in Butchers on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Mar 2020 19:58:46 +0100</lastBuildDate>
     
-	<atom:link href="https://tender-bell-527fff.netlify.com/tags/butchers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.brixtonlocal.life/tags/butchers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jones</title>
-      <link>https://tender-bell-527fff.netlify.com/posts/jones/</link>
+      <link>http://www.brixtonlocal.life/posts/jones/</link>
       <pubDate>Sat, 14 Mar 2020 19:58:46 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/posts/jones/</guid>
+      <guid>http://www.brixtonlocal.life/posts/jones/</guid>
       <description>&lt;p&gt;Delivery of meat boxes.&lt;/p&gt;</description>
     </item>
     

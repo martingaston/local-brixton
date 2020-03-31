@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Brixton Local</title>
-    <link>https://tender-bell-527fff.netlify.com/categories/</link>
+    <link>http://www.brixtonlocal.life/categories/</link>
     <description>Recent content in Categories on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Mar 2020 19:39:30 +0100</lastBuildDate>
     
-	<atom:link href="https://tender-bell-527fff.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.brixtonlocal.life/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Food&#43;Drink</title>
-      <link>https://tender-bell-527fff.netlify.com/categories/food&#43;drink/</link>
+      <link>http://www.brixtonlocal.life/categories/food&#43;drink/</link>
       <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/categories/food&#43;drink/</guid>
+      <guid>http://www.brixtonlocal.life/categories/food&#43;drink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Community</title>
-      <link>https://tender-bell-527fff.netlify.com/categories/community/</link>
+      <link>http://www.brixtonlocal.life/categories/community/</link>
       <pubDate>Thu, 26 Mar 2020 22:18:39 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/categories/community/</guid>
+      <guid>http://www.brixtonlocal.life/categories/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fitness</title>
-      <link>https://tender-bell-527fff.netlify.com/categories/fitness/</link>
+      <link>http://www.brixtonlocal.life/categories/fitness/</link>
       <pubDate>Wed, 25 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/categories/fitness/</guid>
+      <guid>http://www.brixtonlocal.life/categories/fitness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shops</title>
-      <link>https://tender-bell-527fff.netlify.com/categories/shops/</link>
-      <pubDate>Sat, 21 Mar 2020 22:18:10 +0100</pubDate>
+      <link>http://www.brixtonlocal.life/categories/shops/</link>
+      <pubDate>Fri, 20 Mar 2020 22:18:10 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/categories/shops/</guid>
+      <guid>http://www.brixtonlocal.life/categories/shops/</guid>
       <description></description>
     </item>
     

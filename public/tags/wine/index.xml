@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine on Brixton Local</title>
-    <link>https://tender-bell-527fff.netlify.com/tags/wine/</link>
+    <link>http://www.brixtonlocal.life/tags/wine/</link>
     <description>Recent content in Wine on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2020 22:17:35 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 23:02:13 +0100</lastBuildDate>
     
-	<atom:link href="https://tender-bell-527fff.netlify.com/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.brixtonlocal.life/tags/wine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Wild &#43; Lees</title>
-      <link>https://tender-bell-527fff.netlify.com/posts/wildlees/</link>
-      <pubDate>Fri, 06 Mar 2020 22:17:35 +0100</pubDate>
+      <title>Dvine Cellars</title>
+      <link>http://www.brixtonlocal.life/posts/dvine/</link>
+      <pubDate>Fri, 20 Mar 2020 23:02:13 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/posts/wildlees/</guid>
+      <guid>http://www.brixtonlocal.life/posts/dvine/</guid>
+      <description>We are an independent wine shop, wine bar and coffee shop in the heart of Clapham. We sell and serve wines from small interesting producers, with a particular focus on new world organic and biodynamic winemaking. As we still believe wine is essential to the enjoyment of life, we will be offering a &amp;ldquo;no contact&amp;rdquo; delivery service.
+How to order: Email sales@dvinecellars.com Their condensed wine list is here
+Website: https://www.dvinecellars.com/</description>
+    </item>
+    
+    <item>
+      <title>Wild &#43; Lees</title>
+      <link>http://www.brixtonlocal.life/posts/wildlees/</link>
+      <pubDate>Wed, 04 Mar 2020 22:17:35 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/posts/wildlees/</guid>
       <description>KEEPING HERNE HILL HANDSOMELY STOCKED WITH PLUCKY WINES,WELL-CRAFTED BEERS &amp;amp; SMALL-BATCH SPIRITS.
 How to order: Email hello@wildandlees.com or Phone 07985218570. Hours are TUES-SAT 12-6, SUN 11-3	Wine delivery to SW2, SE24, SE21, SE22, SE27, SE5 or collection
 Website: http://wildandlees.com/

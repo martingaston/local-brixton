@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collection on Brixton Local</title>
-    <link>https://tender-bell-527fff.netlify.com/tags/collection/</link>
+    <link>http://www.brixtonlocal.life/tags/collection/</link>
     <description>Recent content in Collection on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2020 22:16:21 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 21:29:48 +0100</lastBuildDate>
     
-	<atom:link href="https://tender-bell-527fff.netlify.com/tags/collection/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.brixtonlocal.life/tags/collection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Cable Bakery</title>
+      <link>http://www.brixtonlocal.life/posts/cable/</link>
+      <pubDate>Tue, 24 Mar 2020 21:29:48 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/posts/cable/</guid>
+      <description>Family run Bakery, Coffee roastery, pizzeria and bar. No longer serving pizzas but still selling bread and ground coffee &amp;ldquo;The bread will continue being made out back by John - pop round back to collect a loaf or two his contact details are john@kenningtonbakery.co.uk. Our Cable Coffee is also available from John too&amp;rdquo;.
+How to order: Order online at https://kenningtonbakery.co.uk/basket and pick up at the back of Cable Bakery Pizzeria</description>
+    </item>
+    
+    <item>
       <title>Enroot</title>
-      <link>https://tender-bell-527fff.netlify.com/posts/enroot/</link>
+      <link>http://www.brixtonlocal.life/posts/enroot/</link>
       <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/posts/enroot/</guid>
+      <guid>http://www.brixtonlocal.life/posts/enroot/</guid>
       <description>With a focus on health, EN ROOT celebrates fresh seasonal vegetables, wholesome pulses and aromatic Gujarati spices to deliver a unique, internationally influenced menu. Currently providing An ESSENTIAL Root Veg &amp;amp; Fruit Box for £25. A selection of EN ROOT’s favourite &amp;amp; inest fruit &amp;amp; veg while we on lockdown. https://www.enrootldn.co.uk/products/covid-root-box
 How to order: Online, Free delivery to South London
 Website: https://www.enrootldn.co.uk/products
@@ -25,10 +35,10 @@ Address: Clapham Park Road, London, SW4 7EY</description>
     
     <item>
       <title>Hood</title>
-      <link>https://tender-bell-527fff.netlify.com/posts/hood/</link>
+      <link>http://www.brixtonlocal.life/posts/hood/</link>
       <pubDate>Tue, 17 Mar 2020 22:15:55 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/posts/hood/</guid>
+      <guid>http://www.brixtonlocal.life/posts/hood/</guid>
       <description>We have an excellent stock of eggs, fruit &amp;amp; veg, flour, other store cupboard basics, wine, beer, soft drinks and of course Mike’s marvellous meals! They are all frozen to be enjoyed at home.
 How to order: Open for collection, phone 02036013320 for delivery within 5 miles. Open Tuesday-Saturday 9.30am- 2.30pm. 10 delivery slots a day.
 Website: https://www.hoodrestaurants.com/popup-menu/ and check @hoodstreatham on instagram for daily updates
@@ -37,10 +47,10 @@ Address: 67 Streatham Hill, SW2 4TX</description>
     
     <item>
       <title>Jerky Fridays</title>
-      <link>https://tender-bell-527fff.netlify.com/posts/jerkyfridays/</link>
+      <link>http://www.brixtonlocal.life/posts/jerkyfridays/</link>
       <pubDate>Sun, 15 Mar 2020 22:16:52 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/posts/jerkyfridays/</guid>
+      <guid>http://www.brixtonlocal.life/posts/jerkyfridays/</guid>
       <description>Sit back, relax, and enjoy our wide selection of delicious Caribbean cuisine. Message through their facebook page for menu and ordering/delivery information
 How to order: Message via Facebook, or order through JustEat https://www.facebook.com/JerkyFridays Collection Friday - Sunday 2-10pm (order first)
 Address: Palace Road, Tulse Hill, SW2 3JZ</description>
@@ -48,10 +58,10 @@ Address: Palace Road, Tulse Hill, SW2 3JZ</description>
     
     <item>
       <title>Le DailyCorner Cafe</title>
-      <link>https://tender-bell-527fff.netlify.com/posts/ledaily/</link>
+      <link>http://www.brixtonlocal.life/posts/ledaily/</link>
       <pubDate>Thu, 12 Mar 2020 20:11:04 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/posts/ledaily/</guid>
+      <guid>http://www.brixtonlocal.life/posts/ledaily/</guid>
       <description>Fruit, veg, bread, pastries. and cakes available to collect. Delivering fruit and veg for self-isolated people. Check their instagram daily for a morning video of what they have that day.
 How to order: Email ledailycorner@outlook.com Open 9am - 3pm (Tues - Sun) for takeaway and delivery within 1/2 mile
 Website: @le_dailycorner on instagram
@@ -60,14 +70,26 @@ Address: 21 Upper Tulse Hill</description>
     
     <item>
       <title>Maremma</title>
-      <link>https://tender-bell-527fff.netlify.com/posts/maremma/</link>
+      <link>http://www.brixtonlocal.life/posts/maremma/</link>
       <pubDate>Mon, 09 Mar 2020 22:15:48 +0100</pubDate>
       
-      <guid>https://tender-bell-527fff.netlify.com/posts/maremma/</guid>
+      <guid>http://www.brixtonlocal.life/posts/maremma/</guid>
       <description>Maremma Deli is our new collection takeaway service bringing restaurant-quality, oven-ready meals, Maremman cheese and charcuterie, wine, fresh fruit and vegetable bags, homemade fresh pasta and sauces and other essentials
 How to order: Email info@maremmarestaurant.com. Order by 3pm for collection next day. Collection is between 3-5pm Wed-Fri. Local delivery is £5. See website for menu.
 Website: https://www.maremmarestaurant.com/maremma-deli
 Address: 36 Brixton Water Lane, London, SW2 1PE</description>
+    </item>
+    
+    <item>
+      <title>Pipoca Vegan</title>
+      <link>http://www.brixtonlocal.life/posts/pipoca/</link>
+      <pubDate>Sat, 07 Mar 2020 21:29:36 +0100</pubDate>
+      
+      <guid>http://www.brixtonlocal.life/posts/pipoca/</guid>
+      <description>A vegan creperie and zero waste refill centre, now also selling fresh fruit &amp;amp; veg
+How to order: In store (crepes available via Deliveroo)
+Website: https://www.facebook.com/pipocavegan/ @pipocavegan (instagram)
+Address: 224 Brixton Road SW9 6AH</description>
     </item>
     
   </channel>

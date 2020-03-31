@@ -1,6 +1,6 @@
 ---
 title: Connect Lambeth
-date: 2020-03-22T18:08:27+01:00
+date: 2020-03-21T18:08:27+01:00
 lastmod: 2020-03-31T18:08:27+01:00
 author: Author Name
 cover: /img/connect.jpeg
