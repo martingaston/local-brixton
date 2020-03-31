@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Brixton Local"
 theme = "dream"
+[params]
+email = "jyherman@gmail.com"
+
