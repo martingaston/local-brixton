@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 08:00:40 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 10:34:22 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>tag1</title>
       <link>http://example.org/tags/tag1/</link>
-      <pubDate>Tue, 31 Mar 2020 08:00:40 +0100</pubDate>
+      <pubDate>Tue, 31 Mar 2020 10:34:22 +0100</pubDate>
       
       <guid>http://example.org/tags/tag1/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>tag2</title>
       <link>http://example.org/tags/tag2/</link>
-      <pubDate>Tue, 31 Mar 2020 08:00:40 +0100</pubDate>
+      <pubDate>Tue, 31 Mar 2020 10:34:22 +0100</pubDate>
       
       <guid>http://example.org/tags/tag2/</guid>
       <description></description>

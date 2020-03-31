@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 08:00:40 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 10:34:22 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>category1</title>
       <link>http://example.org/categories/category1/</link>
-      <pubDate>Tue, 31 Mar 2020 08:00:40 +0100</pubDate>
+      <pubDate>Tue, 31 Mar 2020 10:34:22 +0100</pubDate>
       
       <guid>http://example.org/categories/category1/</guid>
       <description></description>
