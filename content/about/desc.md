@@ -12,4 +12,4 @@ We've defined Brixton pretty loosely, taking in bits of Herne Hill, Stockwell, C
 
 Obviously this is a fast-changing situation, so it's always worth double checking websites and social media for the most up to date information. 
 
-This website began from a spreadsheet available [here](https://docs.google.com/spreadsheets/d/1gm4Yh-aUTgnsWBjMQYo55qbSetO0XDUXgl5yH7aN0jM/edit?usp=sharing) and still open for contributions and updates.
+This website began from a spreadsheet available [here](https://docs.google.com/spreadsheets/d/1gm4Yh-aUTgnsWBjMQYo55qbSetO0XDUXgl5yH7aN0jM/edit?usp=sharing) and is still open for contributions and updates.

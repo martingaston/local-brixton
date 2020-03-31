@@ -5,7 +5,7 @@ lastmod: 2020-03-29T22:16:29+01:00
 author: Author Name
 cover: /img/blank.jpeg
 categories: ["Food+Drink"]
-tags: ["Delivery", "Meals", "All", "cafe"]
+tags: ["Delivery", "Vegan", "All", "Cafe", "Meals"]
 # showcase: true
 ---
 

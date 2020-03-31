@@ -1,11 +1,11 @@
 ---
 title: Ashby's Shop
-date: 2020-03-29T19:39:30+01:00
-lastmod: 2020-03-29T19:39:30+01:00
+date: 2020-03-30T19:39:30+01:00
+lastmod: 2020-03-31T19:39:30+01:00
 author: Johanna
 cover: /img/ashby.jpeg
 categories: ["Food+Drink"]
-tags: ["Groceries", "Delivery", "All"]
+tags: ["Groceries", "Delivery", "All", "Shops"]
 # showcase: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Brixton Brewery
-date: 2020-03-29T22:17:03+01:00
+date: 2020-03-28T09:17:03+01:00
 lastmod: 2020-03-29T22:17:03+01:00
 author: Author Name
 cover: /img/bb.jpeg

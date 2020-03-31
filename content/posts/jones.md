@@ -1,11 +1,11 @@
 ---
 title: Jones
-date: 2020-03-29T19:58:46+01:00
+date: 2020-03-14T19:58:46+01:00
 lastmod: 2020-03-29T19:58:46+01:00
 author: Johanna
 cover: /img/jones.jpeg
 categories: ["Food+Drink"]
-tags: ["Butchers", "Delivery", "All"]
+tags: ["Butchers", "Delivery", "All", "Shops"]
 # showcase: true
 ---
 

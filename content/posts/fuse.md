@@ -1,11 +1,11 @@
 ---
 title: Fuse
-date: 2020-03-29T22:06:15+01:00
+date: 2020-03-19T22:06:15+01:00
 lastmod: 2020-03-29T22:06:15+01:00
 author: Johanna
 cover: /img/fuse.jpeg
 categories: ["fitness"]
-tags: ["Online", "All", "Yoga", "Circuits", "HIIT"]
+tags: ["Online", "All", "Yoga", "Circuits", "HIIT", "Fitness"]
 # showcase: true
 ---
 

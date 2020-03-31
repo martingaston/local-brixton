@@ -1,11 +1,11 @@
 ---
 title: Maremma
-date: 2020-03-29T22:15:48+01:00
+date: 2020-03-09T22:15:48+01:00
 lastmod: 2020-03-29T22:15:48+01:00
 author: Author Name
 cover: /img/maremma.jpeg
 categories: ["Food+Drink"]
-tags: ["Groceries", "Meals", "All", "Delivery", "Collection", "Restaurant", "Tuscan"]
+tags: ["Groceries", "Meals", "All", "Delivery", "Collection", "Restaurant", "Tuscan", "fruit+veg"]
 # showcase: true
 ---
 

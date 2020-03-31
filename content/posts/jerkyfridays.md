@@ -1,11 +1,11 @@
 ---
-title: Jerkyfridays
-date: 2020-03-29T22:16:52+01:00
+title: Jerky Fridays
+date: 2020-03-15T22:16:52+01:00
 lastmod: 2020-03-29T22:16:52+01:00
 author: Author Name
 cover: /img/jerkys.jpeg
 categories: ["Food+Drink"]
-tags: ["Delivery", "All", "Caribbean"]
+tags: ["Delivery", "All", "Caribbean", "Meals", "Collection"]
 # showcase: true
 ---
 

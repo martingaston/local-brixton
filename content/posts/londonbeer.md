@@ -1,6 +1,6 @@
 ---
 title: London Beer Lab
-date: 2020-03-29T22:17:28+01:00
+date: 2020-03-10T22:17:28+01:00
 lastmod: 2020-03-29T22:17:28+01:00
 author: Author Name
 cover: /img/londonbeer.jpeg
