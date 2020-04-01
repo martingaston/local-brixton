@@ -5,7 +5,7 @@ lastmod: 2020-03-31T21:29:36+01:00
 author: Author Name
 cover: /img/pipoca.jpeg
 categories: ["Food+Drink"]
-tags: ["Crepes", "Fruit+Veg", "Meals", "Delivery", "Collection", "All"]
+tags: ["Crepes", "Fruit+Veg", "Meals", "Delivery", "Collection", "All", "Vegan"]
 # showcase: true
 ---
 A vegan creperie and zero waste refill centre, now also selling fresh fruit & veg

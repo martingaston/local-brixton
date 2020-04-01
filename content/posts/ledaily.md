@@ -5,7 +5,7 @@ lastmod: 2020-03-29T20:11:04+01:00
 author: Author Name
 cover: /img/ledaily.jpeg
 categories: ["Food+Drink"]
-tags: ["Groceries", "Delivery", "Collection", "All", "Cafe", "Meals", "French", "Fruit+Veg"]
+tags: ["Groceries", "Delivery", "Collection", "All", "Cafe", "Meals", "French", "Fruit+Veg", "Bread"]
 # showcase: true
 ---
 

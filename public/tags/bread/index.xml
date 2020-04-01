@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bread on Brixton Local</title>
+    <link>https://www.brixtonlocal.life/tags/bread/</link>
+    <description>Recent content in Bread on Brixton Local</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2020 20:11:04 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.brixtonlocal.life/tags/bread/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le DailyCorner Cafe</title>
+      <link>https://www.brixtonlocal.life/posts/ledaily/</link>
+      <pubDate>Thu, 12 Mar 2020 20:11:04 +0100</pubDate>
+      
+      <guid>https://www.brixtonlocal.life/posts/ledaily/</guid>
+      <description>Fruit, veg, bread, pastries. and cakes available to collect. Delivering fruit and veg for self-isolated people. Check their instagram daily for a morning video of what they have that day.
+How to order: Email ledailycorner@outlook.com Open 9am - 3pm (Tues - Sun) for takeaway and delivery within 1/2 mile
+Website: @le_dailycorner on instagram
+Address: 21 Upper Tulse Hill</description>
+    </item>
+    
+    <item>
+      <title>Maremma</title>
+      <link>https://www.brixtonlocal.life/posts/maremma/</link>
+      <pubDate>Mon, 09 Mar 2020 22:15:48 +0100</pubDate>
+      
+      <guid>https://www.brixtonlocal.life/posts/maremma/</guid>
+      <description>Maremma Deli is our new collection takeaway service bringing restaurant-quality, oven-ready meals, Maremman cheese and charcuterie, wine, fresh fruit and vegetable bags, homemade fresh pasta and sauces and other essentials
+How to order: Email info@maremmarestaurant.com. Order by 3pm for collection next day. Collection is between 3-5pm Wed-Fri. Local delivery is £5. See website for menu.
+Website: https://www.maremmarestaurant.com/maremma-deli
+Address: 36 Brixton Water Lane, London, SW2 1PE</description>
+    </item>
+    
+  </channel>
+</rss>
