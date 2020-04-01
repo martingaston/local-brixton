@@ -4,6 +4,7 @@
       {{ if isset .Site.Params "avatar" }}
         <img src="{{ .Site.Params.avatar }}">
       {{ end }}
+      {{ template "_internal/google_analytics.html" . }}
     </div>
 
     <h1 class="ui medium header">
