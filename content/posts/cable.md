@@ -7,6 +7,7 @@ cover: /img/cable.jpeg
 categories: ["Food+Drink"]
 tags: ["Bakery", "Collection", "All", "Coffee"]
 # showcase: true
+draft: true
 ---
 Family run Bakery, Coffee roastery, pizzeria and bar. No longer serving pizzas but still selling bread and ground coffee "The bread will continue being made out back by John - pop round back to collect a loaf or two his contact details are john@kenningtonbakery.co.uk. Our Cable Coffee is also available from John too".
 
