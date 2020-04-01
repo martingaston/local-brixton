@@ -2,6 +2,7 @@ baseURL = "http://www.brixtonlocal.life/"
 languageCode = "en-us"
 title = "Brixton Local"
 theme = "dream"
+googleAnalytics = "UA-162431077-1"
 [params]
 email = "jyherman@gmail.com"
 
