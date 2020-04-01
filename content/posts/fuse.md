@@ -11,9 +11,7 @@ tags: ["Online", "All", "Yoga", "Circuits", "HIIT", "Fitness"]
 
 Live streamed daily exercise classes.
 
-<!--more-->
-
-Darren's classes were previously at Fitness First in Brixton & Stockwell Primary school. He is offering combat fight, hip hop circuits, yoga, get ripped and HIIT.  £20 per month for all oline classes.
+Darren's classes were previously at Fitness First in Brixton & Stockwell Primary school. He is offering combat fit, hip hop circuits, yoga, get ripped and HIIT.  £20 per month for all online classes.
 
 Website: <https://www.fusefitnesslondon.com/livestream>
 

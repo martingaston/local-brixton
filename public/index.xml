@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brixton Local</title>
-    <link>http://www.brixtonlocal.life/</link>
+    <link>https://www.brixtonlocal.life/</link>
     <description>Recent content on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Mar 2020 21:40:30 +0100</lastBuildDate>
     
-	<atom:link href="http://www.brixtonlocal.life/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.brixtonlocal.life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to Local Brixton</title>
-      <link>http://www.brixtonlocal.life/about/desc/</link>
+      <link>https://www.brixtonlocal.life/about/desc/</link>
       <pubDate>Mon, 30 Mar 2020 21:40:30 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/about/desc/</guid>
+      <guid>https://www.brixtonlocal.life/about/desc/</guid>
       <description>We started this page during the Covid-19 Lockdown to connect people with businesses and services still operating in Brixton, and to help businesses move online quickly.
 We thought if we could support local people and businesses in this small way, we might just come out of this stronger and more aware of what&amp;rsquo;s on offer in our amazing local area, and how they continued to serve us, even under the most difficult circumstances.</description>
     </item>
     
     <item>
       <title>Ashby&#39;s Shop</title>
-      <link>http://www.brixtonlocal.life/posts/ashby/</link>
+      <link>https://www.brixtonlocal.life/posts/ashby/</link>
       <pubDate>Mon, 30 Mar 2020 19:39:30 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/ashby/</guid>
+      <guid>https://www.brixtonlocal.life/posts/ashby/</guid>
       <description>Shop is currently closed but they have 2 teams of bikes delivering within 2 miles. &amp;ldquo;Currently we have a wide selection of coffee and tea, grains, pulses pasta and rice. Cans, jars and delicious treats for those with a sweet tooth, dairy alternatives and other household essentials - mostly plant based.
 How to order: Online between 8am - 8pm online for next day delivery at the latest
 Website: https://www.ashbys.shop/
@@ -35,10 +35,10 @@ Address: 112D Brixton Hill, SW2 1AH</description>
     
     <item>
       <title>Website Info</title>
-      <link>http://www.brixtonlocal.life/about/code/</link>
+      <link>https://www.brixtonlocal.life/about/code/</link>
       <pubDate>Mon, 30 Mar 2020 10:50:08 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/about/code/</guid>
+      <guid>https://www.brixtonlocal.life/about/code/</guid>
       <description>This website was built (very quickly!) by Johanna with Hugo using an adapted Dream theme.
 The code is publicly available at this Github repo and we accept pull requests, particularly on styling! Please check out our open issues.
 Please get in touch if you would like advice on how to build something similar for your community.</description>
@@ -46,10 +46,10 @@ Please get in touch if you would like advice on how to build something similar f
     
     <item>
       <title>Blank Brixton</title>
-      <link>http://www.brixtonlocal.life/posts/blank/</link>
+      <link>https://www.brixtonlocal.life/posts/blank/</link>
       <pubDate>Sun, 29 Mar 2020 22:16:29 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/blank/</guid>
+      <guid>https://www.brixtonlocal.life/posts/blank/</guid>
       <description>Antipodean cafe, banging out Brixton&amp;rsquo;s best plant based food. When you come to Blank we promise an EPIC experience while you eat the most amazingly fresh food.&amp;rdquo; Link to Whatsapp ordering and menu here: https://linktr.ee/Blankbrixton
 How to order: Order through Whatsapp (see link in notes or check their facebook or instagram page @blankbrixton). Hours: M-F 7am-3pm,S 8am-3pm Sun 9am-3pm
 Website: https://www.blankbrixtoncafe.com/home
@@ -58,10 +58,10 @@ Address: 144 Acre Lane, Brixton, SW2 5UT</description>
     
     <item>
       <title>Brixton Brewery</title>
-      <link>http://www.brixtonlocal.life/posts/brbrewery/</link>
+      <link>https://www.brixtonlocal.life/posts/brbrewery/</link>
       <pubDate>Sat, 28 Mar 2020 09:17:03 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/brbrewery/</guid>
+      <guid>https://www.brixtonlocal.life/posts/brbrewery/</guid>
       <description>Brixton Brewery is one of London’s established craft breweries, making beer in the heart of one of London’s most colourful and famous neighbourhoods. Webshop open with delivery free over £20. Mixed cases available or packs.
 How to order: Order online (2-4 days lead time)
 Website: https://www.BrixtonBrewery.com/shop
@@ -70,30 +70,30 @@ Address: Arches 547+548, Brixton Station Road, London SW9 8PF</description>
     
     <item>
       <title>Brixton Chip Shop</title>
-      <link>http://www.brixtonlocal.life/posts/brchipshop/</link>
+      <link>https://www.brixtonlocal.life/posts/brchipshop/</link>
       <pubDate>Fri, 27 Mar 2020 22:16:37 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/brchipshop/</guid>
+      <guid>https://www.brixtonlocal.life/posts/brchipshop/</guid>
       <description>Chip Shop has launched its new delivery menu with a selection of favourite fish, meat, vegetarian and vegan classics. We are delivering direct to our customers within one mile of the Chip Shop so you won&amp;rsquo;t have to wait hours for your order using a traditional delivery service.
 How to order: Online - Delivery is available Monday to Friday from 6:30pm – 10:30pm and 4pm – 10:30pm Saturday and Sunday</description>
     </item>
     
     <item>
       <title>Brixton Soup Kitchen</title>
-      <link>http://www.brixtonlocal.life/posts/brsoup/</link>
+      <link>https://www.brixtonlocal.life/posts/brsoup/</link>
       <pubDate>Thu, 26 Mar 2020 22:18:39 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/brsoup/</guid>
+      <guid>https://www.brixtonlocal.life/posts/brsoup/</guid>
       <description>We are a Brixton based service for the homeless and people in need. However, we help people who are from London and surrounding areas. We rely on donations and volunteers to continue our work.
 Brixton Soup Kitchen, founded in 2013 by Solomon Smith and Mahamed Hashi, has become a bastion of community support in the Brixton area, serving free meals twice a day as well as providing a clothing bank, a food bank, free to use computers with internet, and legal advice.</description>
     </item>
     
     <item>
       <title>Brixton Yoga</title>
-      <link>http://www.brixtonlocal.life/posts/byoga/</link>
+      <link>https://www.brixtonlocal.life/posts/byoga/</link>
       <pubDate>Wed, 25 Mar 2020 22:18:25 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/byoga/</guid>
+      <guid>https://www.brixtonlocal.life/posts/byoga/</guid>
       <description>Daily live yoga by Zoom, see Instagram and Facebook page for the daily links
 https://www.brixtonyoga.co.uk/
 Free but can give donation amount</description>
@@ -101,10 +101,10 @@ Free but can give donation amount</description>
     
     <item>
       <title>Canopy</title>
-      <link>http://www.brixtonlocal.life/posts/canopy/</link>
+      <link>https://www.brixtonlocal.life/posts/canopy/</link>
       <pubDate>Mon, 23 Mar 2020 22:17:11 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/canopy/</guid>
+      <guid>https://www.brixtonlocal.life/posts/canopy/</guid>
       <description>Tap room is closed, no takeaways or collection. But don’t worry, getting beer is easy and it’s free delivery over £30.
 How to order: Online, see online for next delivery date
 Website: https://shop.canopybeer.com/
@@ -113,10 +113,10 @@ Address: Arch 1127, Bath Factory Estate, 41 Norwood Road, London SE24 9AJ</descr
     
     <item>
       <title>Clarkshaws</title>
-      <link>http://www.brixtonlocal.life/posts/clarkshaws/</link>
+      <link>https://www.brixtonlocal.life/posts/clarkshaws/</link>
       <pubDate>Sun, 22 Mar 2020 22:17:17 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/clarkshaws/</guid>
+      <guid>https://www.brixtonlocal.life/posts/clarkshaws/</guid>
       <description>We are a family run nano brewery in Brixton. Award winning and all vegan beers. We have plenty of bottles, cases and 5L minikegs of beer available.
 How to order: Online, delivering for free in the local area.
 Website: https://www.clarkshaws.co.uk/shop.html
@@ -125,10 +125,10 @@ Address: Arch 497 Ridgway Road, London, SW9 7EX</description>
     
     <item>
       <title>Connect Lambeth</title>
-      <link>http://www.brixtonlocal.life/posts/connect/</link>
+      <link>https://www.brixtonlocal.life/posts/connect/</link>
       <pubDate>Sat, 21 Mar 2020 18:08:27 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/connect/</guid>
+      <guid>https://www.brixtonlocal.life/posts/connect/</guid>
       <description>These are odd times. Things are happening that are unprecedented. And that means we all need to respond differently. More importantly, we need to work #together.
 We have come together to ensure that we keep services open and relevant to the challenges we all face.
 So, we might not be doing what we usually do, but we&amp;rsquo;re still here, providing support to some of those most in need.
@@ -137,10 +137,10 @@ If you need help, then make sure you give us a call.</description>
     
     <item>
       <title>Dvine Cellars</title>
-      <link>http://www.brixtonlocal.life/posts/dvine/</link>
+      <link>https://www.brixtonlocal.life/posts/dvine/</link>
       <pubDate>Fri, 20 Mar 2020 23:02:13 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/dvine/</guid>
+      <guid>https://www.brixtonlocal.life/posts/dvine/</guid>
       <description>We are an independent wine shop, wine bar and coffee shop in the heart of Clapham. We sell and serve wines from small interesting producers, with a particular focus on new world organic and biodynamic winemaking. As we still believe wine is essential to the enjoyment of life, we will be offering a &amp;ldquo;no contact&amp;rdquo; delivery service.
 How to order: Email sales@dvinecellars.com Their condensed wine list is here
 Website: https://www.dvinecellars.com/</description>
@@ -148,10 +148,10 @@ Website: https://www.dvinecellars.com/</description>
     
     <item>
       <title>Croxted Road Garden Centre</title>
-      <link>http://www.brixtonlocal.life/posts/croxted/</link>
+      <link>https://www.brixtonlocal.life/posts/croxted/</link>
       <pubDate>Fri, 20 Mar 2020 22:18:10 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/croxted/</guid>
+      <guid>https://www.brixtonlocal.life/posts/croxted/</guid>
       <description>Helping gardens for over 40 years, our family-run business is built upon a love for all things green. We recommend, support, advise and sell an extensive range of plants, trees and shrubs - all available at very reasonable prices.
 How to order: By Phone 0208 674 4366, delivery Wed-Sun 10am-4pm
 Website: https://www.croxtedroadgardencentre.co.uk
@@ -160,10 +160,10 @@ Address: Croxted Road, Herne Hill, London, SE24 9DB	Phone</description>
     
     <item>
       <title>Enroot</title>
-      <link>http://www.brixtonlocal.life/posts/enroot/</link>
+      <link>https://www.brixtonlocal.life/posts/enroot/</link>
       <pubDate>Fri, 20 Mar 2020 22:16:21 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/enroot/</guid>
+      <guid>https://www.brixtonlocal.life/posts/enroot/</guid>
       <description>With a focus on health, EN ROOT celebrates fresh seasonal vegetables, wholesome pulses and aromatic Gujarati spices to deliver a unique, internationally influenced menu. Currently providing An ESSENTIAL Root Veg &amp;amp; Fruit Box for £25. A selection of EN ROOT’s favourite &amp;amp; inest fruit &amp;amp; veg while we on lockdown. https://www.enrootldn.co.uk/products/covid-root-box
 How to order: Online, Free delivery to South London
 Website: https://www.enrootldn.co.uk/products
@@ -172,19 +172,21 @@ Address: Clapham Park Road, London, SW4 7EY</description>
     
     <item>
       <title>Fuse</title>
-      <link>http://www.brixtonlocal.life/posts/fuse/</link>
+      <link>https://www.brixtonlocal.life/posts/fuse/</link>
       <pubDate>Thu, 19 Mar 2020 22:06:15 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/fuse/</guid>
-      <description>&lt;p&gt;Live streamed daily exercise classes.&lt;/p&gt;</description>
+      <guid>https://www.brixtonlocal.life/posts/fuse/</guid>
+      <description>Live streamed daily exercise classes.
+Darren&amp;rsquo;s classes were previously at Fitness First in Brixton &amp;amp; Stockwell Primary school. He is offering combat fit, hip hop circuits, yoga, get ripped and HIIT. £20 per month for all online classes.
+Website: https://www.fusefitnesslondon.com/livestream</description>
     </item>
     
     <item>
       <title>Herne Hill Books</title>
-      <link>http://www.brixtonlocal.life/posts/hhbooks/</link>
+      <link>https://www.brixtonlocal.life/posts/hhbooks/</link>
       <pubDate>Wed, 18 Mar 2020 22:18:03 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/hhbooks/</guid>
+      <guid>https://www.brixtonlocal.life/posts/hhbooks/</guid>
       <description>We are closed and will remain so for as long as this takes. We are taking phone, email &amp;amp; twitter orders which will be posted out straight from our wholesalers. Thank you all so much for your messages and continued support. Stay home, stay safe and see you on the other side.
 How to order: Phone 020 7998 1673, Email shop@hernehillbooks.com, Twitter @HerneHillBooks
 Address: 289 Railton Rd, Brixton, London SE24 0LY</description>
@@ -192,10 +194,10 @@ Address: 289 Railton Rd, Brixton, London SE24 0LY</description>
     
     <item>
       <title>Hood</title>
-      <link>http://www.brixtonlocal.life/posts/hood/</link>
+      <link>https://www.brixtonlocal.life/posts/hood/</link>
       <pubDate>Tue, 17 Mar 2020 22:15:55 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/hood/</guid>
+      <guid>https://www.brixtonlocal.life/posts/hood/</guid>
       <description>We have an excellent stock of eggs, fruit &amp;amp; veg, flour, other store cupboard basics, wine, beer, soft drinks and of course Mike’s marvellous meals! They are all frozen to be enjoyed at home.
 How to order: Open for collection, phone 02036013320 for delivery within 5 miles. Open Tuesday-Saturday 9.30am- 2.30pm. 10 delivery slots a day.
 Website: https://www.hoodrestaurants.com/popup-menu/ and check @hoodstreatham on instagram for daily updates
@@ -204,10 +206,10 @@ Address: 67 Streatham Hill, SW2 4TX</description>
     
     <item>
       <title>Hotpod Yoga Brixton</title>
-      <link>http://www.brixtonlocal.life/posts/hotpod/</link>
+      <link>https://www.brixtonlocal.life/posts/hotpod/</link>
       <pubDate>Mon, 16 Mar 2020 22:18:20 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/hotpod/</guid>
+      <guid>https://www.brixtonlocal.life/posts/hotpod/</guid>
       <description>Hotpod Yoga Brixton	is offering online classes without the heat!
 Website: https://hotpodyoga.com/studios/brixton/schedule/
 Donation amount</description>
@@ -215,10 +217,10 @@ Donation amount</description>
     
     <item>
       <title>Jerky Fridays</title>
-      <link>http://www.brixtonlocal.life/posts/jerkyfridays/</link>
+      <link>https://www.brixtonlocal.life/posts/jerkyfridays/</link>
       <pubDate>Sun, 15 Mar 2020 22:16:52 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/jerkyfridays/</guid>
+      <guid>https://www.brixtonlocal.life/posts/jerkyfridays/</guid>
       <description>Sit back, relax, and enjoy our wide selection of delicious Caribbean cuisine. Message through their facebook page for menu and ordering/delivery information
 How to order: Message via Facebook, or order through JustEat https://www.facebook.com/JerkyFridays Collection Friday - Sunday 2-10pm (order first)
 Address: Palace Road, Tulse Hill, SW2 3JZ</description>
@@ -226,29 +228,29 @@ Address: Palace Road, Tulse Hill, SW2 3JZ</description>
     
     <item>
       <title>Jones</title>
-      <link>http://www.brixtonlocal.life/posts/jones/</link>
+      <link>https://www.brixtonlocal.life/posts/jones/</link>
       <pubDate>Sat, 14 Mar 2020 19:58:46 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/jones/</guid>
+      <guid>https://www.brixtonlocal.life/posts/jones/</guid>
       <description>&lt;p&gt;Delivery of meat boxes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Lambeth Foodbank Fund</title>
-      <link>http://www.brixtonlocal.life/posts/lambethfund/</link>
+      <link>https://www.brixtonlocal.life/posts/lambethfund/</link>
       <pubDate>Fri, 13 Mar 2020 22:18:50 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/lambethfund/</guid>
+      <guid>https://www.brixtonlocal.life/posts/lambethfund/</guid>
       <description>The world is experiencing an unprecedented challenge. It is important, in this moment, that we cooperate and do what we can to support one another. The Lambeth Food Bank Fund has launched to support our community and the organisations that can have the most impact on those that are most vulnerable.
 The funds will go to the most vulnerable people during this crisis. They will be administered by Holy Trinity Clapham and delivered to food banks across the borough - including Brixton &amp;amp; Norwood, Clapham Park, Vauxhall, and Waterloo - that can help the most vulnerable.</description>
     </item>
     
     <item>
       <title>Le DailyCorner Cafe</title>
-      <link>http://www.brixtonlocal.life/posts/ledaily/</link>
+      <link>https://www.brixtonlocal.life/posts/ledaily/</link>
       <pubDate>Thu, 12 Mar 2020 20:11:04 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/ledaily/</guid>
+      <guid>https://www.brixtonlocal.life/posts/ledaily/</guid>
       <description>Fruit, veg, bread, pastries. and cakes available to collect. Delivering fruit and veg for self-isolated people. Check their instagram daily for a morning video of what they have that day.
 How to order: Email ledailycorner@outlook.com Open 9am - 3pm (Tues - Sun) for takeaway and delivery within 1/2 mile
 Website: @le_dailycorner on instagram
@@ -257,10 +259,10 @@ Address: 21 Upper Tulse Hill</description>
     
     <item>
       <title>Little Box of Books</title>
-      <link>http://www.brixtonlocal.life/posts/littlebox/</link>
+      <link>https://www.brixtonlocal.life/posts/littlebox/</link>
       <pubDate>Wed, 11 Mar 2020 22:17:44 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/littlebox/</guid>
+      <guid>https://www.brixtonlocal.life/posts/littlebox/</guid>
       <description>We&amp;rsquo;re based in Brixton and do boxes of inclusive and representative children&amp;rsquo;s books for 0-11 year olds. Our boxes have puzzles and activities in them and a free gift. We do them as a subscription or one off gifts&amp;hellip; we are well stocked and ready to deliver.
 How to order: online
 Website: https://littleboxofbooks.co.uk/</description>
@@ -268,10 +270,10 @@ Website: https://littleboxofbooks.co.uk/</description>
     
     <item>
       <title>London Beer Lab</title>
-      <link>http://www.brixtonlocal.life/posts/londonbeer/</link>
+      <link>https://www.brixtonlocal.life/posts/londonbeer/</link>
       <pubDate>Tue, 10 Mar 2020 22:17:28 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/londonbeer/</guid>
+      <guid>https://www.brixtonlocal.life/posts/londonbeer/</guid>
       <description>Sharing beery knowledge and good times since 2013. A brewery, a place to come and learn how to brew, bottle shop, taproom and home brew supply store.
 How to order: Online. Free delivery. Cans, bottles and draft beer on collection.
 Website: https://www.londonbeerlab.com/category-s/245.htm</description>
@@ -279,10 +281,10 @@ Website: https://www.londonbeerlab.com/category-s/245.htm</description>
     
     <item>
       <title>Maremma</title>
-      <link>http://www.brixtonlocal.life/posts/maremma/</link>
+      <link>https://www.brixtonlocal.life/posts/maremma/</link>
       <pubDate>Mon, 09 Mar 2020 22:15:48 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/maremma/</guid>
+      <guid>https://www.brixtonlocal.life/posts/maremma/</guid>
       <description>Maremma Deli is our new collection takeaway service bringing restaurant-quality, oven-ready meals, Maremman cheese and charcuterie, wine, fresh fruit and vegetable bags, homemade fresh pasta and sauces and other essentials
 How to order: Email info@maremmarestaurant.com. Order by 3pm for collection next day. Collection is between 3-5pm Wed-Fri. Local delivery is £5. See website for menu.
 Website: https://www.maremmarestaurant.com/maremma-deli
@@ -291,20 +293,20 @@ Address: 36 Brixton Water Lane, London, SW2 1PE</description>
     
     <item>
       <title>Norwood and Brixton Foodbank</title>
-      <link>http://www.brixtonlocal.life/posts/nfoodbank/</link>
+      <link>https://www.brixtonlocal.life/posts/nfoodbank/</link>
       <pubDate>Sun, 08 Mar 2020 22:18:44 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/nfoodbank/</guid>
+      <guid>https://www.brixtonlocal.life/posts/nfoodbank/</guid>
       <description>Our foodbank is run by local people for local people – we rely on the community’s support to ensure we can continue to stop people going hungry. Can you invest in the future of our project and help us provide much-needed support to people in crisis in our community?
 Giving more than just food Big or small, every gift you give helps transform lives. We couldn’t do what we do without your support.</description>
     </item>
     
     <item>
       <title>Pipoca Vegan</title>
-      <link>http://www.brixtonlocal.life/posts/pipoca/</link>
+      <link>https://www.brixtonlocal.life/posts/pipoca/</link>
       <pubDate>Sat, 07 Mar 2020 21:29:36 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/pipoca/</guid>
+      <guid>https://www.brixtonlocal.life/posts/pipoca/</guid>
       <description>A vegan creperie and zero waste refill centre, now also selling fresh fruit &amp;amp; veg
 How to order: In store (crepes available via Deliveroo)
 Website: https://www.facebook.com/pipocavegan/ @pipocavegan (instagram)
@@ -313,10 +315,10 @@ Address: 224 Brixton Road SW9 6AH</description>
     
     <item>
       <title>Tales on Moon Lane</title>
-      <link>http://www.brixtonlocal.life/posts/tales/</link>
+      <link>https://www.brixtonlocal.life/posts/tales/</link>
       <pubDate>Thu, 05 Mar 2020 22:17:51 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/tales/</guid>
+      <guid>https://www.brixtonlocal.life/posts/tales/</guid>
       <description>Award winning independent children&amp;rsquo;s book shop. We look forward to hearing from you to offer book advice (including home learning), orders and delivery and we remain grateful to you for all your support during this strange and difficult time.
 How to order: Phone 020 7274 5759 or Email info@talesonmoonlane.co.uk. Delivering Monday to Thursday 12-4pm.
 Website: https://www.talesonmoonlane.co.uk/
@@ -325,10 +327,10 @@ Address: 25 Half Moon Ln, Dulwich, London SE24 9JU</description>
     
     <item>
       <title>Wild &#43; Lees</title>
-      <link>http://www.brixtonlocal.life/posts/wildlees/</link>
+      <link>https://www.brixtonlocal.life/posts/wildlees/</link>
       <pubDate>Wed, 04 Mar 2020 22:17:35 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/wildlees/</guid>
+      <guid>https://www.brixtonlocal.life/posts/wildlees/</guid>
       <description>KEEPING HERNE HILL HANDSOMELY STOCKED WITH PLUCKY WINES,WELL-CRAFTED BEERS &amp;amp; SMALL-BATCH SPIRITS.
 How to order: Email hello@wildandlees.com or Phone 07985218570. Hours are TUES-SAT 12-6, SUN 11-3	Wine delivery to SW2, SE24, SE21, SE22, SE27, SE5 or collection
 Website: http://wildandlees.com/

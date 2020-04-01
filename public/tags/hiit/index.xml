@@ -2,22 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HIIT on Brixton Local</title>
-    <link>http://www.brixtonlocal.life/tags/hiit/</link>
+    <link>https://www.brixtonlocal.life/tags/hiit/</link>
     <description>Recent content in HIIT on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Mar 2020 22:06:15 +0100</lastBuildDate>
     
-	<atom:link href="http://www.brixtonlocal.life/tags/hiit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.brixtonlocal.life/tags/hiit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fuse</title>
-      <link>http://www.brixtonlocal.life/posts/fuse/</link>
+      <link>https://www.brixtonlocal.life/posts/fuse/</link>
       <pubDate>Thu, 19 Mar 2020 22:06:15 +0100</pubDate>
       
-      <guid>http://www.brixtonlocal.life/posts/fuse/</guid>
-      <description>&lt;p&gt;Live streamed daily exercise classes.&lt;/p&gt;</description>
+      <guid>https://www.brixtonlocal.life/posts/fuse/</guid>
+      <description>Live streamed daily exercise classes.
+Darren&amp;rsquo;s classes were previously at Fitness First in Brixton &amp;amp; Stockwell Primary school. He is offering combat fit, hip hop circuits, yoga, get ripped and HIIT. £20 per month for all online classes.
+Website: https://www.fusefitnesslondon.com/livestream</description>
     </item>
     
   </channel>
