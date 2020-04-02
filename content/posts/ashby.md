@@ -5,7 +5,7 @@ lastmod: 2020-03-31T19:39:30+01:00
 author: Johanna
 cover: /img/ashby.jpeg
 categories: ["Food+Drink"]
-tags: ["Groceries", "Delivery", "All", "Shops"]
+tags: ["Groceries", "Delivery", "All", "Shops", "Fruit+Veg"]
 # showcase: true
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Le DailyCorner Cafe
-date: 2020-03-12T20:11:04+01:00
+date: 2020-03-20T19:30:04+01:00
 lastmod: 2020-03-29T20:11:04+01:00
 author: Author Name
-cover: /img/ledaily.jpeg
+cover: /img/daily.jpeg
 categories: ["Food+Drink"]
-tags: ["Groceries", "Delivery", "Collection", "All", "Cafe", "Meals", "French", "Fruit+Veg", "Bread"]
+tags: ["Groceries", "Delivery", "Collection", "All", "Cafe", "Meals", "French", "Fruit+Veg", "Bread", "Cakes", "Dessert"]
 # showcase: true
 ---
 
