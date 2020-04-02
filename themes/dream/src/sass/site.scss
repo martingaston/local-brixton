@@ -138,3 +138,13 @@ body {
   top: -1rem;
   left: 10.5rem;
 }
+
+.bottom-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  a {
+    color: rgba(black, 0.87);
+  }
+}
