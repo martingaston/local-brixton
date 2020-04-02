@@ -6,7 +6,7 @@
     <description>Recent content in Wine on Brixton Local</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2020 23:02:13 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 19:02:13 +0100</lastBuildDate>
     
 	<atom:link href="https://www.brixtonlocal.life/tags/wine/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,23 @@
     <item>
       <title>Dvine Cellars</title>
       <link>https://www.brixtonlocal.life/posts/dvine/</link>
-      <pubDate>Fri, 20 Mar 2020 23:02:13 +0100</pubDate>
+      <pubDate>Fri, 20 Mar 2020 19:02:13 +0100</pubDate>
       
       <guid>https://www.brixtonlocal.life/posts/dvine/</guid>
       <description>We are an independent wine shop, wine bar and coffee shop in the heart of Clapham. We sell and serve wines from small interesting producers, with a particular focus on new world organic and biodynamic winemaking. As we still believe wine is essential to the enjoyment of life, we will be offering a &amp;ldquo;no contact&amp;rdquo; delivery service.
 How to order: Email sales@dvinecellars.com Their condensed wine list is here
 Website: https://www.dvinecellars.com/</description>
+    </item>
+    
+    <item>
+      <title>Tiger Vines</title>
+      <link>https://www.brixtonlocal.life/posts/tiger/</link>
+      <pubDate>Thu, 05 Mar 2020 09:01:06 +0100</pubDate>
+      
+      <guid>https://www.brixtonlocal.life/posts/tiger/</guid>
+      <description>Need wine for the weekend? You can order direct from our website to snap up a case or two of delicious, small production craft wines to enjoy at home. Delivered straight to your door, at a safe distance.
+Online	https://www.tigervines.com/essentials-selection-box?fbclid=IwAR1znL-cmICsmXmVp4Hw3kj1bkCi3Wnti9QOorZqMRLPDcyG8IRikVsW-mI	Deliveries will be twice a week locally (SE London) and for the rest of London.
+Address: Tiger Vines 47 Avondale Rise, London, SE15 4AJ</description>
     </item>
     
     <item>
@@ -32,6 +43,17 @@ Website: https://www.dvinecellars.com/</description>
 How to order: Email hello@wildandlees.com or Phone 07985218570. Hours are TUES-SAT 12-6, SUN 11-3	Wine delivery to SW2, SE24, SE21, SE22, SE27, SE5 or collection
 Website: http://wildandlees.com/
 Address: 2 Half Moon Ln, Dulwich, London SE24 9HU</description>
+    </item>
+    
+    <item>
+      <title>The Wine Parlour</title>
+      <link>https://www.brixtonlocal.life/posts/wineparlour/</link>
+      <pubDate>Tue, 03 Mar 2020 19:00:59 +0100</pubDate>
+      
+      <guid>https://www.brixtonlocal.life/posts/wineparlour/</guid>
+      <description>Home to amazing bottles from across the globe and artisan cheese and charcuterie selections, The Wine Parlour is both passionate and informal, serious about wine but friendly and fun with it. We have arranged a FREE delivery service across South London.
+How to order: Call 0203 302 1617 or order using the form on their website
+Website: http://www.thewineparlour.com/	Our next delivery will be on Friday 3 April between 4pm and 6pm in time for the weekend!</description>
     </item>
     
   </channel>
